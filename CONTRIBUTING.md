@@ -4,25 +4,28 @@ Thanks for helping maintain this list.
 
 ## Adding a Paper
 
-Please add each paper to one primary category in `README.md`.
+Please add each paper to one primary category file under `categories/`.
 
 Recommended format:
 
 ```markdown
-| 2026 | Venue | Paper Title | attack / defense / benchmark | One-sentence neutral summary. |
+| 2026 | Attack | Venue | Paper Title | attack, keyword |
 ```
 
-If a paper fits multiple areas, choose the most specific primary category and add tags in the notes.
+Keep category tables sorted newest first. Use one `Type`: `Attack`, `Defense`, `Detection & Attribution`, `Dataset & Benchmark`, `Analysis & Measurement`, or `Tooling & Position`.
+
+If a paper fits multiple areas, choose the most specific primary category and add secondary tags.
 
 ## Category Guide
 
-- Deepfake and Voice Cloning Security: TTS, voice cloning, voice conversion, detection, liveness, and proactive protection
-- Music and Singing Voice Protection: music, singing voice conversion, illegal song covers, and generative music protection
-- ASR and Speech Translation Security: speech recognition, transcription privacy, adversarial audio, and speech translation attacks
-- Watermarking and Data Rights: dataset copyright, provenance, and watermark-based detection
-- Speech Privacy and Audio Data Protection: anonymization, recoverable privacy, and machine-resistant human-usable audio
-- Side Channels and Physical Eavesdropping: VR sensors, vibration leakage, conference audio leakage, and defenses
-- Audio Language Model Safety: audio-native foundation model safety, bias, harmful generation, and prompt leakage
+- Audio Deepfake, Voice Cloning, and Spoofing
+- Voice Privacy, Anonymization, and Speaker Protection
+- Watermarking, Provenance, and Data Rights
+- ASR and Speech Translation Security
+- Audio-Language Model Safety
+- Side Channels and Physical Eavesdropping
+- Music and Singing Voice Security
+- Voice Authentication and Biometrics
 
 ## Summary Style
 

@@ -2,7 +2,7 @@
 
 Collection date: 2026-05-31.
 
-Paper entries are maintained in category files. Each category file has one chronological table with a `Venue` column.
+Paper entries are maintained in category files. Each category file has one reverse chronological table with `Type` and `Venue` columns.
 
 ## Category Files
 

@@ -1,6 +1,6 @@
 # 主题分类总结
 
-这批内容建议按“攻击面 / 保护对象”组织，而不是只按 attack / defense 二分。每篇论文保留一个 primary category，再用 tags 标出 `attack`、`defense`、`benchmark`、`privacy`、`watermark`、`side-channel`、`jailbreak` 等属性。
+这批内容建议按“攻击面 / 保护对象”组织。每篇论文保留一个 primary category、一个 `Type`，再用 tags 标出 `privacy`、`watermark`、`side-channel`、`jailbreak` 等细粒度属性。
 
 ## 1. Audio Deepfake、Voice Cloning 与 Spoofing
 
