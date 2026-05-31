@@ -1,0 +1,47 @@
+name: Add a paper
+description: Suggest a paper for the audio security reading list.
+title: "[Paper] "
+labels:
+  - paper
+body:
+  - type: input
+    id: title
+    attributes:
+      label: Paper title
+      placeholder: "Paper title"
+    validations:
+      required: true
+  - type: input
+    id: venue
+    attributes:
+      label: Venue and year
+      placeholder: "USENIX Security 2026"
+    validations:
+      required: true
+  - type: dropdown
+    id: category
+    attributes:
+      label: Primary category
+      options:
+        - Deepfake and Voice Cloning Security
+        - Music and Singing Voice Protection
+        - ASR and Speech Translation Security
+        - Watermarking and Data Rights
+        - Speech Privacy and Audio Data Protection
+        - Side Channels and Physical Eavesdropping
+        - Audio Language Model Safety
+        - Datasets, Benchmarks, and Tools
+    validations:
+      required: true
+  - type: input
+    id: links
+    attributes:
+      label: Links
+      placeholder: "Paper / arXiv / code / dataset / project page"
+  - type: textarea
+    id: summary
+    attributes:
+      label: One-sentence summary
+      placeholder: "What is the security or privacy contribution?"
+    validations:
+      required: true
