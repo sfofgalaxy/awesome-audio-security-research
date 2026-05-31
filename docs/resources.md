@@ -1,6 +1,6 @@
 # Resources
 
-Working notes for models, detectors, APIs, and benchmark components. Verify API availability and model versions before relying on this file.
+Working notes for models, detectors, APIs, and benchmark metadata. Verify API availability and model versions before relying on this file.
 
 ## Deepfake Generation Models
 
@@ -27,7 +27,7 @@ Potential providers and model families to track:
 - Ultravox realtime voice APIs
 - Moonshot / Kimi audio model releases
 
-## Benchmark Dimensions
+## Benchmark Metadata
 
 For each benchmark, consider recording:
 
