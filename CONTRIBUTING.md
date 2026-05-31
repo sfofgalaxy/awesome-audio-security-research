@@ -9,10 +9,16 @@ Please add each paper to one primary category file under `categories/`.
 Recommended format:
 
 ```markdown
-| 2026 | Attack | Venue | Paper Title | attack, keyword |
+## Attack
+
+| Year | Venue | Paper | Tags |
+| --- | --- | --- | --- |
+| 2026 | Venue | Paper Title | attack, keyword |
 ```
 
-Keep category tables sorted newest first. Use one `Type`: `Attack`, `Defense`, `Detection & Attribution`, `Dataset & Benchmark`, `Analysis & Measurement`, or `Tooling & Position`.
+Keep category tables sorted newest first. Use one broad section: `Attack`, `Defense`, `Dataset`, `Benchmark`, or `Analysis & Measurement`.
+
+Detection and attribution papers belong under `Defense`. Tooling and position papers are not included by default.
 
 If a paper fits multiple areas, choose the most specific primary category and add secondary tags.
 
