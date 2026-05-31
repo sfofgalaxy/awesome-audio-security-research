@@ -224,7 +224,7 @@ Representative papers:
 
 ## Suggested Tag Schema
 
-- Role tags: `attack`, `defense`, `benchmark`, `survey`, `dataset`, `tool`, `position`
+- Role tags: `attack`, `defense`, `benchmark`, `survey`, `dataset`
 - Domain tags: `speech`, `music`, `singing-voice`, `asr`, `speech-translation`, `tts`, `voice-conversion`, `speaker-verification`
 - Security tags: `privacy`, `watermark`, `provenance`, `copyright`, `side-channel`, `liveness`, `deepfake`, `jailbreak`, `prompt-injection`
 - Evaluation tags: `human-study`, `perception`, `black-box`, `physical-world`, `real-time`, `multilingual`, `cross-modal`

@@ -23,6 +23,8 @@
 
 每个分类文件按大类拆成 `Attack`、`Defense`、`Dataset`、`Benchmark`、`Analysis & Measurement` 几个 section；表格按新到旧排序。
 
+默认只收主会 full paper 和高质量 arXiv；short、Findings、workshop、纯工具、position 文章默认不收。
+
 - [Top-Venue Coverage 2025-2026](docs/top-venue-papers-2025-2026.md)
 - [Taxonomy](docs/taxonomy.md)
 - [中文分类总结](docs/taxonomy.zh-CN.md)

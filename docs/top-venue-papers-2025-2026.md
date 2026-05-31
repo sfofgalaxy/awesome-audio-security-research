@@ -62,3 +62,5 @@ Paper entries are maintained in category files. Each category file is split into
 ## Inclusion Rule
 
 For ICASSP and Interspeech, a paper must clearly mention audio, speech, voice, or music plus security, privacy, spoofing, deepfake, watermarking, adversarial robustness, authentication, anonymization, or related trustworthy-audio terms.
+
+The collection focuses on main-conference/full research papers. Short papers, Findings papers, workshops, demos, tutorials, tooling-only papers, position papers, and weak arXiv preprints are excluded by default.

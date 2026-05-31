@@ -55,7 +55,6 @@
 | 2025 | NeurIPS | [E2E-VGuard: Adversarial Prevention for Production LLM-based End-To-End Speech Synthesis](https://neurips.cc/virtual/2025/poster/119295) | defense, tts |
 | 2025 | EMNLP | [What You Read Isn't What You Hear: Linguistic Sensitivity in Deepfake Speech Detection](https://aclanthology.org/2025.emnlp-main.794/) | detection, linguistic |
 | 2025 | ICASSP | Black-Box Adversarial Defense Against Voice Conversion Using Latent Space Perturbation | defense, voice-conversion, id-48887 |
-| 2025 | ICASSP | Quantum-Trained Convolutional Neural Network for Deepfake Audio Detection | detection, workshop, id-54367 |
 | 2025 | ICASSP | AUDIO-VISUAL DEEPFAKE DETECTION WITH LOCAL TEMPORAL INCONSISTENCIES | detection, audio-visual, id-50204 |
 | 2025 | ICASSP | SpecViT: A Custom Vision-Transformer based Approach for Audio Deepfake Detection | detection, id-50619 |
 | 2025 | ICASSP | Investigating voiced and unvoiced regions of speech for audio deepfake detection | detection, id-51982 |

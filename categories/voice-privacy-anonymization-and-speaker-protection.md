@@ -55,5 +55,4 @@
 | 2026 | ICASSP | CONTENT LEAKAGE IN LIBRISPEECH AND ITS IMPACT ON THE PRIVACY EVALUATION OF SPEAKER ANONYMIZATION | privacy, anonymization, paper-11020 |
 | 2026 | ICASSP | IDENTITY LEAKAGE THROUGH ACCENT CUES IN VOICE ANONYMISATION | privacy, anonymization, paper-16493 |
 | 2026 | ICASSP | Privacy Disclosure of Similarity Rank in Speech and Language Processing | privacy, paper-19051 |
-| 2025 | ACL | [Different Speech Translation Models Encode and Translate Speaker Gender Differently](https://aclanthology.org/2025.acl-short.78/) | fairness, speech-translation |
 | 2025 | Interspeech | [Children's Voice Privacy: First Steps and Emerging Challenges](https://www.isca-archive.org/interspeech_2025/kulkarni25b_interspeech.html) | privacy, children |

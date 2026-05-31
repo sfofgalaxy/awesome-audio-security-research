@@ -18,7 +18,9 @@ Recommended format:
 
 Keep category tables sorted newest first. Use one broad section: `Attack`, `Defense`, `Dataset`, `Benchmark`, or `Analysis & Measurement`.
 
-Detection and attribution papers belong under `Defense`. Tooling and position papers are not included by default.
+Detection and attribution papers belong under `Defense`. Include only high-quality main-conference papers or clearly strong arXiv preprints.
+
+Do not include short papers, Findings papers, workshops, demos, tutorials, tooling-only papers, position papers, or weak arXiv preprints by default.
 
 If a paper fits multiple areas, choose the most specific primary category and add secondary tags.
 

@@ -23,6 +23,8 @@ Current focus: 2025 and public 2026 top-venue papers from security, AI, NLP, and
 
 Category files are split into broad type sections: `Attack`, `Defense`, `Dataset`, `Benchmark`, and `Analysis & Measurement`. Tables are sorted newest first.
 
+The list favors main-conference/full research papers and strong arXiv preprints; short, Findings, workshop, tooling-only, and position papers are excluded by default.
+
 - [Top-Venue Coverage 2025-2026](docs/top-venue-papers-2025-2026.md)
 - [Taxonomy](docs/taxonomy.md)
 - [Resources](docs/resources.md)
