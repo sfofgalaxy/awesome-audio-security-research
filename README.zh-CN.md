@@ -21,7 +21,7 @@
 
 当前重点：2025 年以及公开可核验的 2026 年安全、AI、NLP、Speech 顶会论文。
 
-每个分类文件按大类拆成 `Attack`、`Defense`、`Dataset`、`Benchmark`、`Analysis & Measurement` 几个 section；表格按新到旧排序。
+每个分类文件按大类拆成 `Attack`、`Defense`、`Benchmark & Measurement`、`Other` 几个 section；表格按新到旧排序。
 
 默认只收主会 full paper 和高质量 arXiv；short、Findings、workshop、纯工具、position 文章默认不收。
 
@@ -32,6 +32,6 @@
 
 ## 贡献
 
-欢迎 PR。建议包含标题、作者、venue、年份、官方链接、primary category、所属大类 section、tags，以及一句中立的安全/隐私贡献总结。
+欢迎 PR。建议包含标题、作者、venue、年份、官方链接、primary category、section、tags，以及一句中立的安全/隐私贡献总结。
 
 格式参考：[Contributing](CONTRIBUTING.md)。

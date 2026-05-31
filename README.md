@@ -21,7 +21,7 @@ A curated list of audio attacks, defenses, privacy, watermarking, and trustworth
 
 Current focus: 2025 and public 2026 top-venue papers from security, AI, NLP, and speech conferences.
 
-Category files are split into broad type sections: `Attack`, `Defense`, `Dataset`, `Benchmark`, and `Analysis & Measurement`. Tables are sorted newest first.
+Category files are split into broad sections: `Attack`, `Defense`, `Benchmark & Measurement`, and `Other`. Tables are sorted newest first.
 
 The list favors main-conference/full research papers and strong arXiv preprints; short, Findings, workshop, tooling-only, and position papers are excluded by default.
 
@@ -31,6 +31,6 @@ The list favors main-conference/full research papers and strong arXiv preprints;
 
 ## Contributing
 
-Pull requests are welcome. Please include the title, authors, venue, year, official link, primary category, broad type section, tags, and a short neutral security/privacy summary.
+Pull requests are welcome. Please include the title, authors, venue, year, official link, primary category, section, tags, and a short neutral security/privacy summary.
 
 See [Contributing](CONTRIBUTING.md) for the preferred format.

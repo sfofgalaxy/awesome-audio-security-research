@@ -1,6 +1,6 @@
 # Taxonomy
 
-This taxonomy separates the collection by threat surface first, then by broad research role. A paper should have one primary category, one broad section, and may carry several secondary tags.
+This taxonomy separates the collection by threat surface first, then by broad research role. A paper should have one primary category, one section (`Attack`, `Defense`, `Benchmark & Measurement`, or `Other`), and may carry several secondary tags.
 
 ## 1. Audio Deepfake, Voice Cloning, and Spoofing
 

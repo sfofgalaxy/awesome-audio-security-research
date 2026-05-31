@@ -26,7 +26,7 @@
 | 2025 | EMNLP | [Reshaping Representation Space to Balance the Safety and Over-rejection in Large Audio Language Models](https://aclanthology.org/2025.emnlp-main.510/) | safety, over-refusal |
 | 2025 | Interspeech | [Defending Speech-enabled LLMs Against Adversarial Jailbreak Threats](https://www.isca-archive.org/interspeech_2025/alexos25_interspeech.html) | defense, jailbreak |
 
-## Benchmark
+## Benchmark & Measurement
 
 | Year | Venue | Paper | Tags |
 | --- | --- | --- | --- |
@@ -40,11 +40,6 @@
 | 2025 | NeurIPS | [AVROBUSTBENCH: Benchmarking the Robustness of Audio-Visual Recognition Models at Test-Time](https://neurips.cc/virtual/2025/poster/121746) | benchmark, robustness |
 | 2025 | NeurIPS | [The Curse of Multi-Modalities: Evaluating Hallucinations of Large Multimodal Models across Language, Visual, and Audio](https://neurips.cc/virtual/2025/poster/121756) | benchmark, hallucination |
 | 2025 | ACL | [Benchmarking Open-ended Audio Dialogue Understanding for Large Audio-Language Models](https://aclanthology.org/2025.acl-long.237/) | benchmark, dialogue |
-
-## Analysis & Measurement
-
-| Year | Venue | Paper | Tags |
-| --- | --- | --- | --- |
 | 2025 | ACL | [Mind the Gap: Static and Interactive Evaluations of Large Audio Models](https://aclanthology.org/2025.acl-long.428/) | evaluation, trustworthiness |
 | 2025 | EMNLP | [When Audio and Text Disagree: Revealing Text Bias in Large Audio-Language Models](https://aclanthology.org/2025.emnlp-main.246/) | bias, alm |
 | 2025 | EMNLP | [Towards Holistic Evaluation of Large Audio-Language Models: A Comprehensive Survey](https://aclanthology.org/2025.emnlp-main.514/) | survey, evaluation |

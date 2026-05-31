@@ -16,9 +16,11 @@ Recommended format:
 | 2026 | Venue | Paper Title | attack, keyword |
 ```
 
-Keep category tables sorted newest first. Use one broad section: `Attack`, `Defense`, `Dataset`, `Benchmark`, or `Analysis & Measurement`.
+Keep category tables sorted newest first. Use one broad section: `Attack`, `Defense`, `Benchmark & Measurement`, or `Other`.
 
 Detection and attribution papers belong under `Defense`. Include only high-quality main-conference papers or clearly strong arXiv preprints.
+
+Datasets, benchmarks, surveys, evaluations, analyses, and measurement papers belong under `Benchmark & Measurement`. Use `Other` only for valuable papers that do not fit the first three sections.
 
 Do not include short papers, Findings papers, workshops, demos, tutorials, tooling-only papers, position papers, or weak arXiv preprints by default.
 

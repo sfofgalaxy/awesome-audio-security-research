@@ -41,18 +41,13 @@
 | 2025 | Interspeech | [Private kNN-VC: Interpretable Anonymization of Converted Speech](https://www.isca-archive.org/interspeech_2025/franzreb25_interspeech.html) | anonymization, voice-conversion |
 | 2025 | Interspeech | [Legally validated evaluation framework for voice anonymization](https://www.isca-archive.org/interspeech_2025/vauquier25_interspeech.html) | anonymization, evaluation |
 
-## Benchmark
+## Benchmark & Measurement
 
 | Year | Venue | Paper | Tags |
 | --- | --- | --- | --- |
 | 2026 | ICLR | [VoxPrivacy: A Benchmark for Evaluating Interactional Privacy of Speech Language Models](https://openreview.net/forum?id=GNo1qMqgPD) | benchmark, privacy, slm |
-| 2025 | ICASSP | The First VoicePrivacy Attacker Challenge | challenge, privacy, id-54053 |
-
-## Analysis & Measurement
-
-| Year | Venue | Paper | Tags |
-| --- | --- | --- | --- |
 | 2026 | ICASSP | CONTENT LEAKAGE IN LIBRISPEECH AND ITS IMPACT ON THE PRIVACY EVALUATION OF SPEAKER ANONYMIZATION | privacy, anonymization, paper-11020 |
 | 2026 | ICASSP | IDENTITY LEAKAGE THROUGH ACCENT CUES IN VOICE ANONYMISATION | privacy, anonymization, paper-16493 |
 | 2026 | ICASSP | Privacy Disclosure of Similarity Rank in Speech and Language Processing | privacy, paper-19051 |
+| 2025 | ICASSP | The First VoicePrivacy Attacker Challenge | challenge, privacy, id-54053 |
 | 2025 | Interspeech | [Children's Voice Privacy: First Steps and Emerging Challenges](https://www.isca-archive.org/interspeech_2025/kulkarni25b_interspeech.html) | privacy, children |

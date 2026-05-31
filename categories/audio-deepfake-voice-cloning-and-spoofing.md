@@ -91,7 +91,7 @@
 | 2025 | Interspeech | [Generalizable Audio Deepfake Detection via Hierarchical Structure Learning and Feature Whitening in Poincare sphere](https://www.isca-archive.org/interspeech_2025/yang25l_interspeech.html) | detection, generalization |
 | 2025 | Interspeech | [Can Quantized Audio Language Models Perform Zero-Shot Spoofing Detection?](https://www.isca-archive.org/interspeech_2025/dutta25b_interspeech.html) | detection, alm |
 
-## Dataset
+## Benchmark & Measurement
 
 | Year | Venue | Paper | Tags |
 | --- | --- | --- | --- |
@@ -99,6 +99,10 @@
 | 2026 | ICASSP | DETECTING AND ATTRIBUTING SYNTHETIC SPANISH SPEECH: THE HISPASPOOF DATASET | dataset, attribution, paper-6231 |
 | 2026 | ICASSP | ECHOFAKE: A REPLAY-AWARE DATASET FOR PRACTICAL SPEECH DEEPFAKE DETECTION | dataset, replay, paper-8921 |
 | 2026 | ICASSP | WildSpoof: Advancing In-the-wild Data in Text-to-speech Generation and Spoofing-aware Automatic Speaker Verification | dataset, sasv, paper-19130 |
+| 2026 | ICASSP | A SUPERB-Style Benchmark of Self-Supervised Speech Models for Audio Deepfake Detection | benchmark, detection, paper-15434 |
+| 2026 | ICASSP | Environmental Sound Deepfake Detection Challenge: An Overview | challenge, environmental-sound, paper-19019 |
+| 2025 | USENIX Security | [VoiceWukong: Benchmarking Deepfake Voice Detection](https://www.usenix.org/conference/usenixsecurity25/presentation/yan-ziwei) | benchmark, detection |
+| 2025 | NDSS | [Characterizing the Impact of Audio Deepfakes in the Presence of Cochlear Implant](https://www.ndss-symposium.org/ndss-paper/characterizing-the-impact-of-audio-deepfakes-in-the-presence-of-cochlear-implant/) | human-study, accessibility |
 | 2025 | ICLR | [ILLUSION: Unveiling Truth with a Comprehensive Multi-Modal, Multi-Lingual Deepfake Dataset](https://openreview.net/forum?id=qnlG3zPQUy) | dataset, multimodal |
 | 2025 | ACL | [SpeechFake: A Large-Scale Multilingual Speech Deepfake Dataset Incorporating Cutting-Edge Generation Methods](https://aclanthology.org/2025.acl-long.493/) | dataset, multilingual |
 | 2025 | EMNLP | [BRSpeech-DF: A Deep Fake Synthetic Speech Dataset for Portuguese Zero-Shot TTS](https://aclanthology.org/2025.emnlp-main.1780/) | dataset, multilingual |
@@ -107,17 +111,3 @@
 | 2025 | Interspeech | [STOPA: A Dataset of Systematic VariaTion Of DeePfake Audio for Open-Set Source Tracing and Attribution](https://www.isca-archive.org/interspeech_2025/firc25_interspeech.html) | dataset, source-tracing |
 | 2025 | Interspeech | [VCapAV: A Video-Caption Based Audio-Visual Deepfake Detection Dataset](https://www.isca-archive.org/interspeech_2025/wang25q_interspeech.html) | dataset, audio-visual |
 | 2025 | Interspeech | [Collecting, Curating, and Annotating Good Quality Speech deepfake dataset for Famous Figures: Process and Challenges](https://www.isca-archive.org/interspeech_2025/ali25_interspeech.html) | dataset, famous-figures |
-
-## Benchmark
-
-| Year | Venue | Paper | Tags |
-| --- | --- | --- | --- |
-| 2026 | ICASSP | A SUPERB-Style Benchmark of Self-Supervised Speech Models for Audio Deepfake Detection | benchmark, detection, paper-15434 |
-| 2026 | ICASSP | Environmental Sound Deepfake Detection Challenge: An Overview | challenge, environmental-sound, paper-19019 |
-| 2025 | USENIX Security | [VoiceWukong: Benchmarking Deepfake Voice Detection](https://www.usenix.org/conference/usenixsecurity25/presentation/yan-ziwei) | benchmark, detection |
-
-## Analysis & Measurement
-
-| Year | Venue | Paper | Tags |
-| --- | --- | --- | --- |
-| 2025 | NDSS | [Characterizing the Impact of Audio Deepfakes in the Presence of Cochlear Implant](https://www.ndss-symposium.org/ndss-paper/characterizing-the-impact-of-audio-deepfakes-in-the-presence-of-cochlear-implant/) | human-study, accessibility |

@@ -22,7 +22,7 @@
 | 2025 | Interspeech | [Defending Unauthorized Voice Cloning with Watermark-Aware Codecs](https://www.isca-archive.org/interspeech_2025/zhao25k_interspeech.html) | watermark, voice-cloning |
 | 2025 | Interspeech | [A Watermark for Auto-Regressive Speech Generation Models](https://www.isca-archive.org/interspeech_2025/wu25k_interspeech.html) | watermark, speech-generation |
 
-## Analysis & Measurement
+## Benchmark & Measurement
 
 | Year | Venue | Paper | Tags |
 | --- | --- | --- | --- |
