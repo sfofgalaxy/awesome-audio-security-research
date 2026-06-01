@@ -1,0 +1,163 @@
+<!doctype html>
+<html lang="zh-CN">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <meta
+      name="description"
+      content="A classified, searchable GitHub Pages view for Awesome Audio Security Research."
+    />
+    <title>Awesome Audio Security Research</title>
+    <link rel="stylesheet" href="assets/site.css" />
+  </head>
+  <body>
+    <header class="hero">
+      <canvas id="hero-canvas" aria-hidden="true"></canvas>
+      <nav class="topbar" aria-label="Primary">
+        <div class="brand-group">
+          <a class="brand" href="./" aria-label="Awesome Audio Security Research home">
+            <span class="brand-mark">AS</span>
+            <span>Audio Security</span>
+          </a>
+          <a class="creator-link" href="https://ziffer.top/" target="_blank" rel="noopener noreferrer">by Ziffer</a>
+        </div>
+        <div class="nav-links">
+          <a href="#explore">分类浏览</a>
+          <a id="taxonomy-link" href="https://github.com/sfofgalaxy/awesome-audio-security-research/blob/main/docs/taxonomy.md">Taxonomy</a>
+          <a id="resources-link" href="https://github.com/sfofgalaxy/awesome-audio-security-research/blob/main/docs/resources.md">Resources</a>
+          <a id="repo-link" href="https://github.com/sfofgalaxy/awesome-audio-security-research">GitHub</a>
+        </div>
+      </nav>
+      <div class="hero-content">
+        <p class="kicker">2025-2026 top-venue map</p>
+        <h1>Awesome Audio Security Research</h1>
+        <p class="hero-copy">
+          面向 audio attacks、voice privacy、watermarking、deepfake detection 与 trustworthy audio AI 的分类阅读地图。
+        </p>
+        <div class="hero-actions">
+          <a class="button primary" href="#explore">浏览论文</a>
+          <a class="button secondary" id="suggest-link" href="https://github.com/sfofgalaxy/awesome-audio-security-research/issues/new?template=paper.yml">提交论文</a>
+        </div>
+      </div>
+    </header>
+
+    <main>
+      <section class="stats-band" aria-label="Collection stats">
+        <div class="stat">
+          <span class="stat-value" id="paper-count">...</span>
+          <span class="stat-label">Papers</span>
+        </div>
+        <div class="stat">
+          <span class="stat-value" id="category-count">...</span>
+          <span class="stat-label">Categories</span>
+        </div>
+        <div class="stat">
+          <span class="stat-value" id="year-range">...</span>
+          <span class="stat-label">Years</span>
+        </div>
+        <div class="stat">
+          <span class="stat-value" id="linked-count">...</span>
+          <span class="stat-label">Official links</span>
+        </div>
+      </section>
+
+      <section class="controls-band" id="explore">
+        <div class="section-heading">
+          <p class="eyebrow">Research index</p>
+          <h2>按威胁面和研究角色整理</h2>
+          <p id="collection-date" class="section-copy"></p>
+        </div>
+
+        <form class="filters" id="filters" role="search">
+          <label class="search-box">
+            <span class="visually-hidden">Search papers</span>
+            <input id="search-input" type="search" placeholder="搜索标题、venue、tag、分类..." autocomplete="off" />
+          </label>
+          <label>
+            <span>分类</span>
+            <select id="category-select"></select>
+          </label>
+          <label>
+            <span>年份</span>
+            <select id="year-select"></select>
+          </label>
+          <label>
+            <span>Venue</span>
+            <select id="venue-select"></select>
+          </label>
+          <label>
+            <span>排序</span>
+            <select id="sort-select">
+              <option value="newest">Newest first</option>
+              <option value="oldest">Oldest first</option>
+              <option value="title">Title A-Z</option>
+              <option value="venue">Venue A-Z</option>
+            </select>
+          </label>
+          <label class="toggle">
+            <input id="linked-only" type="checkbox" />
+            <span>只看有链接</span>
+          </label>
+          <button class="button reset" id="reset-button" type="button">重置</button>
+        </form>
+
+        <div class="segmented" id="section-filter" aria-label="Research role"></div>
+      </section>
+
+      <section class="layout">
+        <aside class="sidebar" aria-label="Categories">
+          <div class="panel-heading">
+            <h2>分类</h2>
+            <span id="active-category-count">0</span>
+          </div>
+          <div class="category-list" id="category-list"></div>
+
+          <div class="facet-block">
+            <h3>高频 Tags</h3>
+            <div class="chip-cloud" id="top-tags"></div>
+          </div>
+
+          <div class="facet-block">
+            <h3>主要 Venues</h3>
+            <div class="chip-cloud" id="top-venues"></div>
+          </div>
+        </aside>
+
+        <section class="results" aria-label="Paper results">
+          <div class="results-heading">
+            <div>
+              <p class="eyebrow">Current view</p>
+              <h2 id="results-title">全部论文</h2>
+            </div>
+            <p class="result-count" id="result-count" aria-live="polite">Loading...</p>
+          </div>
+          <div class="empty-state" id="empty-state" hidden>
+            没找到匹配条目。可以换一个关键词或清掉筛选条件。
+          </div>
+          <div class="result-groups" id="result-groups"></div>
+        </section>
+      </section>
+
+      <section class="landscape-section" aria-label="Category landscape">
+        <div class="section-heading">
+          <p class="eyebrow">Landscape</p>
+          <h2>每个方向的攻防与评测分布</h2>
+        </div>
+        <div class="legend" id="section-legend"></div>
+        <div class="landscape-chart" id="landscape-chart"></div>
+      </section>
+    </main>
+
+    <footer class="footer">
+      <p class="credit">Curated by <a href="https://ziffer.top/" target="_blank" rel="noopener noreferrer">Ziffer</a>.</p>
+      <p>Data is generated from <code>categories/*.md</code> by <code>scripts/build_site.py</code>.</p>
+      <p>
+        <a id="readme-link" href="https://github.com/sfofgalaxy/awesome-audio-security-research/blob/main/README.md">README</a>
+        <a id="readme-zh-link" href="https://github.com/sfofgalaxy/awesome-audio-security-research/blob/main/README.zh-CN.md">中文 README</a>
+        <a id="contributing-link" href="https://github.com/sfofgalaxy/awesome-audio-security-research/blob/main/CONTRIBUTING.md">Contributing</a>
+      </p>
+    </footer>
+
+    <script src="assets/app.js"></script>
+  </body>
+</html>

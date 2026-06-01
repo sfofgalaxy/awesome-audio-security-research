@@ -1,8 +1,17 @@
 # Awesome Audio Security Research
 
-[中文 README](README.zh-CN.md)
+[中文 README](README.zh-CN.md) · [Web page](https://sfofgalaxy.github.io/awesome-audio-security-research/)
 
 A curated list of audio attacks, defenses, privacy, watermarking, and trustworthy audio AI.
+
+## Web Page
+
+This repository includes a GitHub Pages site for browsing the collection by category, year, venue, research role, and tags.
+
+- The page lives in [`docs/index.html`](docs/index.html).
+- Data is generated from `categories/*.md` with `python3 scripts/build_site.py`.
+- `.github/workflows/pages.yml` rebuilds and deploys the site on pushes to `main`.
+- For local preview: `python3 scripts/build_site.py`, then `python3 -m http.server 8000 --directory docs`.
 
 ## Categories
 
