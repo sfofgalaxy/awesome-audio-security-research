@@ -4,15 +4,6 @@
 
 这是一个公开收集 Audio Security / Audio Privacy / Trustworthy Audio AI 论文与资源的仓库。
 
-## 网页
-
-这个仓库已经加入 GitHub Pages 页面，可以按分类、年份、venue、研究角色和 tag 浏览论文。
-
-- 页面入口在 [`docs/index.html`](docs/index.html)。
-- 数据由 `python3 scripts/build_site.py` 从 `categories/*.md` 自动生成。
-- `.github/workflows/pages.yml` 会在 push 到 `main` 后重新构建并部署。
-- 本地预览：先运行 `python3 scripts/build_site.py`，再运行 `python3 -m http.server 8000 --directory docs`。
-
 ## 分类
 
 | 分类 | 简介 |

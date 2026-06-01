@@ -24,6 +24,8 @@ jobs:
 
       - name: Setup Pages
         uses: actions/configure-pages@v5
+        with:
+          enablement: true
 
       - name: Build research data
         run: python3 scripts/build_site.py
