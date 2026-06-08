@@ -34,6 +34,7 @@
 | 2026 | ICLR | [JALMBench: Benchmarking Jailbreak Vulnerabilities in Audio Language Models](https://openreview.net/forum?id=DJkQ236C8B) | benchmark, jailbreak |
 | 2026 | ICML | [LALM-as-a-Judge: Benchmarking Large Audio-Language Models for Safety Evaluation in Multi-Turn Spoken Dialogues](https://icml.cc/virtual/2026/poster/66557) | benchmark, safety |
 | 2026 | ICML | [Do Audio LLMs Listen or Read? Analyzing and Mitigating Paralinguistic Failures with VoxParadox](https://icml.cc/virtual/2026/poster/60946) | benchmark, trustworthiness |
+| 2026 | arXiv | [SpeechJBB: Probing Safety Alignment and Comprehension in Large Audio Language Models under Code-Switched Speech](https://arxiv.org/abs/2606.06037) | benchmark, jailbreak, multilingual |
 | 2026 | arXiv | [Audio Jailbreaks in Large Audio-Language Models: Taxonomy, Attack-Defense Analysis, and Cost-Aware Evaluation](https://arxiv.org/abs/2605.30031) | benchmark, jailbreak, alm |
 | 2025 | ICLR | [AVHBench: A Cross-Modal Hallucination Benchmark for Audio-Visual Large Language Models](https://openreview.net/forum?id=jTEKTdI3K9) | benchmark, hallucination |
 | 2025 | NeurIPS | [Jailbreak-AudioBench: In-Depth Evaluation and Analysis of Jailbreak Threats for Large Audio Language Models](https://neurips.cc/virtual/2025/poster/121592) | benchmark, jailbreak |
