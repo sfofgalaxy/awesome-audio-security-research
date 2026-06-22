@@ -14,6 +14,7 @@
 | Year | Venue | Paper | Tags |
 | --- | --- | --- | --- |
 | 2026 | ICLR | [TVTSyn: Content-Synchronous Time-Varying Timbre for Streaming Voice Conversion and Anonymization](https://openreview.net/forum?id=Tf4Lfw85lS) | anonymization, voice-conversion |
+| 2026 | arXiv | [DDPO-VC: Speaker De-Identification via Diffusion Denoising Policy Optimization](https://arxiv.org/abs/2606.15313) | anonymization, privacy, de-identification |
 | 2026 | ICASSP | CONTENT ANONYMIZATION FOR PRIVACY IN LONG-FORM AUDIO | anonymization, privacy, paper-16132 |
 | 2026 | ICASSP | IMPROVING THE SPEAKER ANONYMIZATION EVALUATION'S ROBUSTNESS TO TARGET SPEAKERS WITH ADVERSARIAL LEARNING | anonymization, robustness, paper-1281 |
 | 2026 | ICASSP | LISTEN, BUT DON'T LEAK: SENSITIVE DATA PROTECTION FOR PRIVACY AWARE AUTOMATIC SPEECH RECOGNITION WITH ACOUSTIC TRIGGERS | privacy, asr, paper-11912 |

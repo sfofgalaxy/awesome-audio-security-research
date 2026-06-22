@@ -5,6 +5,7 @@
 | Year | Venue | Paper | Tags |
 | --- | --- | --- | --- |
 | 2026 | ICML | [Hidden in Plain Tokens: Simply Robust, Gradient-Free Watermark for Synthetic Audio](https://icml.cc/virtual/2026/poster/62388) | watermark, synthetic-audio |
+| 2026 | arXiv | [DuraMark: Duration-Embedded Watermarking in LLM-based TTS](https://arxiv.org/abs/2606.15264) | watermark, tts, voice-cloning |
 | 2026 | ICASSP | AURA: A STEGAFORMER-BASED SCALABLE DEEP AUDIO WATERMARK WITH EXTREME ROBUSTNESS | watermark, paper-17380 |
 | 2026 | ICASSP | LINGUARD: AUTHENTICATING SPEECH RECORDINGS USING SPEECH RECOGNITION AND WATERMARK | authentication, watermark, paper-13170 |
 | 2026 | ICASSP | STREAMMARK: A DEEP LEARNING-BASED SEMI-FRAGILE AUDIO WATERMARKING FOR PROACTIVE DEEPFAKE DETECTION | watermark, detection, paper-9970 |
@@ -26,4 +27,5 @@
 
 | Year | Venue | Paper | Tags |
 | --- | --- | --- | --- |
+| 2026 | arXiv | [VoxWatermark: A Large-Scale Benchmark for Audio Watermark Detection under Perturbations](https://arxiv.org/abs/2606.15187) | benchmark, watermark, perturbation |
 | 2025 | ICLR | [Bridging the Data Provenance Gap Across Text, Speech, and Video](https://openreview.net/forum?id=G5DziesYxL) | provenance, multimodal |
