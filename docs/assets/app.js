@@ -27,6 +27,7 @@ let PAPERS = [];
 let CATEGORIES = [];
 
 const $ = (selector) => document.querySelector(selector);
+const DATA_URL = new URL("research-data.json", document.currentScript?.src ?? window.location.href);
 
 function escapeHTML(value) {
   return String(value ?? "")
@@ -474,7 +475,7 @@ function setupHeroCanvas() {
 
 async function loadData() {
   try {
-    const response = await fetch("assets/research-data.json", { cache: "no-store" });
+    const response = await fetch(DATA_URL, { cache: "no-store" });
     if (!response.ok) throw new Error(`HTTP ${response.status}`);
     DATA = await response.json();
     PAPERS = DATA.papers;
