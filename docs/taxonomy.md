@@ -121,6 +121,7 @@ Threat surface:
 - Audio-visual language models
 - Multi-turn spoken dialogue
 - Audio prompt injection and jailbreaks
+- Multilingual fairness, bias, and trustworthiness failures in speech-capable models
 
 Research roles:
 
@@ -128,7 +129,8 @@ Research roles:
 - Guardrails and refusal steering
 - Safety and trustworthiness benchmarks
 - Hallucination evaluation and mitigation
-- Bias and privacy in spoken dialogue systems
+- Bias, fairness, and privacy audits in spoken dialogue systems
+- Multilingual risk analysis for speech and audio models
 
 Representative papers:
 
@@ -140,6 +142,7 @@ Representative papers:
 - TrojanWave
 - AudioTrust
 - VoxPrivacy
+- RedVox
 
 ## 6. Side Channels and Physical Eavesdropping
 
@@ -227,4 +230,4 @@ Representative papers:
 - Role tags: `attack`, `defense`, `benchmark`, `survey`, `dataset`
 - Domain tags: `speech`, `music`, `singing-voice`, `asr`, `speech-translation`, `tts`, `voice-conversion`, `speaker-verification`
 - Security tags: `privacy`, `watermark`, `provenance`, `copyright`, `side-channel`, `liveness`, `deepfake`, `jailbreak`, `prompt-injection`
-- Evaluation tags: `human-study`, `perception`, `black-box`, `physical-world`, `real-time`, `multilingual`, `cross-modal`
+- Evaluation tags: `human-study`, `perception`, `black-box`, `physical-world`, `real-time`, `multilingual`, `cross-modal`, `fairness`, `bias`, `trustworthiness`

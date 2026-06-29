@@ -89,7 +89,7 @@
 
 ## 5. Audio-Language Model Safety
 
-关注 Audio-Language Model、Speech LLM 和 Audio-Visual LLM 的 jailbreak、prompt injection、guardrail、安全评估、hallucination、bias 和隐私问题。
+关注 Audio-Language Model、Speech LLM 和 Audio-Visual LLM 的 jailbreak、prompt injection、guardrail、安全评估、hallucination、bias、公平性、trustworthiness 和隐私问题。
 
 代表工作：
 
@@ -101,6 +101,7 @@
 - TrojanWave
 - AudioTrust
 - VoxPrivacy
+- RedVox
 
 建议子类：
 
@@ -108,7 +109,8 @@
 - Auditory Prompt Injection
 - Safety Benchmark
 - Guardrail and Refusal Steering
-- Hallucination and Bias Evaluation
+- Hallucination, Bias, and Fairness Evaluation
+- Multilingual Trustworthiness Audit
 
 ## 6. Side Channel 与 Physical Eavesdropping
 

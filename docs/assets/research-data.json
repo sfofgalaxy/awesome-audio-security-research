@@ -82,15 +82,15 @@
       "slug": "audio-language-model-safety",
       "title": "Audio-Language Model Safety",
       "titleZh": "Audio-Language Model Safety",
-      "description": "Jailbreaks, prompt injection, guardrails, benchmarks, hallucination, bias.",
-      "descriptionZh": "Jailbreak、prompt injection、guardrail、评测、幻觉、偏见。",
+      "description": "Jailbreaks, prompt injection, guardrails, benchmarks, hallucination, bias, fairness, trustworthiness.",
+      "descriptionZh": "Jailbreak、prompt injection、guardrail、评测、幻觉、偏见、公平性与 trustworthiness。",
       "sourcePath": "categories/audio-language-model-safety.md",
       "sourceUrl": "https://github.com/sfofgalaxy/awesome-audio-security-research/blob/main/categories/audio-language-model-safety.md",
-      "total": 35,
+      "total": 36,
       "sectionCounts": {
         "Attack": 10,
         "Defense": 6,
-        "Benchmark & Measurement": 19,
+        "Benchmark & Measurement": 20,
         "Other": 0
       }
     },
@@ -3386,7 +3386,26 @@
       "sourceUrl": "https://github.com/sfofgalaxy/awesome-audio-security-research/blob/main/categories/audio-language-model-safety.md"
     },
     {
-      "id": "audio-language-model-safety-benchmark-measurement-5-who-wins-the-conflict-mechanistic-interpretability-of-text-b",
+      "id": "audio-language-model-safety-benchmark-measurement-5-redvox-safety-and-fairness-gaps-in-speech-models-across-lang",
+      "year": 2026,
+      "venue": "arXiv",
+      "title": "RedVox: Safety and Fairness Gaps in Speech Models Across Languages",
+      "url": "https://arxiv.org/abs/2606.26968",
+      "section": "Benchmark & Measurement",
+      "tags": [
+        "benchmark",
+        "fairness",
+        "multilingual",
+        "speech-model"
+      ],
+      "categorySlug": "audio-language-model-safety",
+      "category": "Audio-Language Model Safety",
+      "categoryZh": "Audio-Language Model Safety",
+      "sourcePath": "categories/audio-language-model-safety.md",
+      "sourceUrl": "https://github.com/sfofgalaxy/awesome-audio-security-research/blob/main/categories/audio-language-model-safety.md"
+    },
+    {
+      "id": "audio-language-model-safety-benchmark-measurement-6-who-wins-the-conflict-mechanistic-interpretability-of-text-b",
       "year": 2026,
       "venue": "arXiv",
       "title": "Who Wins the Conflict? Mechanistic Interpretability of Text Bias in Audio LLMs",
@@ -3404,7 +3423,7 @@
       "sourceUrl": "https://github.com/sfofgalaxy/awesome-audio-security-research/blob/main/categories/audio-language-model-safety.md"
     },
     {
-      "id": "audio-language-model-safety-benchmark-measurement-6-speechjbb-probing-safety-alignment-and-comprehension-in-larg",
+      "id": "audio-language-model-safety-benchmark-measurement-7-speechjbb-probing-safety-alignment-and-comprehension-in-larg",
       "year": 2026,
       "venue": "arXiv",
       "title": "SpeechJBB: Probing Safety Alignment and Comprehension in Large Audio Language Models under Code-Switched Speech",
@@ -3422,7 +3441,7 @@
       "sourceUrl": "https://github.com/sfofgalaxy/awesome-audio-security-research/blob/main/categories/audio-language-model-safety.md"
     },
     {
-      "id": "audio-language-model-safety-benchmark-measurement-7-audio-jailbreaks-in-large-audio-language-models-taxonomy-att",
+      "id": "audio-language-model-safety-benchmark-measurement-8-audio-jailbreaks-in-large-audio-language-models-taxonomy-att",
       "year": 2026,
       "venue": "arXiv",
       "title": "Audio Jailbreaks in Large Audio-Language Models: Taxonomy, Attack-Defense Analysis, and Cost-Aware Evaluation",
@@ -3440,7 +3459,7 @@
       "sourceUrl": "https://github.com/sfofgalaxy/awesome-audio-security-research/blob/main/categories/audio-language-model-safety.md"
     },
     {
-      "id": "audio-language-model-safety-benchmark-measurement-8-avhbench-a-cross-modal-hallucination-benchmark-for-audio-vis",
+      "id": "audio-language-model-safety-benchmark-measurement-9-avhbench-a-cross-modal-hallucination-benchmark-for-audio-vis",
       "year": 2025,
       "venue": "ICLR",
       "title": "AVHBench: A Cross-Modal Hallucination Benchmark for Audio-Visual Large Language Models",
@@ -3457,7 +3476,7 @@
       "sourceUrl": "https://github.com/sfofgalaxy/awesome-audio-security-research/blob/main/categories/audio-language-model-safety.md"
     },
     {
-      "id": "audio-language-model-safety-benchmark-measurement-9-jailbreak-audiobench-in-depth-evaluation-and-analysis-of-jai",
+      "id": "audio-language-model-safety-benchmark-measurement-10-jailbreak-audiobench-in-depth-evaluation-and-analysis-of-jai",
       "year": 2025,
       "venue": "NeurIPS",
       "title": "Jailbreak-AudioBench: In-Depth Evaluation and Analysis of Jailbreak Threats for Large Audio Language Models",
@@ -3474,7 +3493,7 @@
       "sourceUrl": "https://github.com/sfofgalaxy/awesome-audio-security-research/blob/main/categories/audio-language-model-safety.md"
     },
     {
-      "id": "audio-language-model-safety-benchmark-measurement-10-aha-bench-benchmarking-audio-hallucinations-in-large-audio-l",
+      "id": "audio-language-model-safety-benchmark-measurement-11-aha-bench-benchmarking-audio-hallucinations-in-large-audio-l",
       "year": 2025,
       "venue": "NeurIPS",
       "title": "AHa-Bench: Benchmarking Audio Hallucinations in Large Audio-Language Models",
@@ -3491,7 +3510,7 @@
       "sourceUrl": "https://github.com/sfofgalaxy/awesome-audio-security-research/blob/main/categories/audio-language-model-safety.md"
     },
     {
-      "id": "audio-language-model-safety-benchmark-measurement-11-avrobustbench-benchmarking-the-robustness-of-audio-visual-re",
+      "id": "audio-language-model-safety-benchmark-measurement-12-avrobustbench-benchmarking-the-robustness-of-audio-visual-re",
       "year": 2025,
       "venue": "NeurIPS",
       "title": "AVROBUSTBENCH: Benchmarking the Robustness of Audio-Visual Recognition Models at Test-Time",
@@ -3508,7 +3527,7 @@
       "sourceUrl": "https://github.com/sfofgalaxy/awesome-audio-security-research/blob/main/categories/audio-language-model-safety.md"
     },
     {
-      "id": "audio-language-model-safety-benchmark-measurement-12-the-curse-of-multi-modalities-evaluating-hallucinations-of-l",
+      "id": "audio-language-model-safety-benchmark-measurement-13-the-curse-of-multi-modalities-evaluating-hallucinations-of-l",
       "year": 2025,
       "venue": "NeurIPS",
       "title": "The Curse of Multi-Modalities: Evaluating Hallucinations of Large Multimodal Models across Language, Visual, and Audio",
@@ -3525,7 +3544,7 @@
       "sourceUrl": "https://github.com/sfofgalaxy/awesome-audio-security-research/blob/main/categories/audio-language-model-safety.md"
     },
     {
-      "id": "audio-language-model-safety-benchmark-measurement-13-benchmarking-open-ended-audio-dialogue-understanding-for-lar",
+      "id": "audio-language-model-safety-benchmark-measurement-14-benchmarking-open-ended-audio-dialogue-understanding-for-lar",
       "year": 2025,
       "venue": "ACL",
       "title": "Benchmarking Open-ended Audio Dialogue Understanding for Large Audio-Language Models",
@@ -3542,7 +3561,7 @@
       "sourceUrl": "https://github.com/sfofgalaxy/awesome-audio-security-research/blob/main/categories/audio-language-model-safety.md"
     },
     {
-      "id": "audio-language-model-safety-benchmark-measurement-14-mind-the-gap-static-and-interactive-evaluations-of-large-aud",
+      "id": "audio-language-model-safety-benchmark-measurement-15-mind-the-gap-static-and-interactive-evaluations-of-large-aud",
       "year": 2025,
       "venue": "ACL",
       "title": "Mind the Gap: Static and Interactive Evaluations of Large Audio Models",
@@ -3559,7 +3578,7 @@
       "sourceUrl": "https://github.com/sfofgalaxy/awesome-audio-security-research/blob/main/categories/audio-language-model-safety.md"
     },
     {
-      "id": "audio-language-model-safety-benchmark-measurement-15-when-audio-and-text-disagree-revealing-text-bias-in-large-au",
+      "id": "audio-language-model-safety-benchmark-measurement-16-when-audio-and-text-disagree-revealing-text-bias-in-large-au",
       "year": 2025,
       "venue": "EMNLP",
       "title": "When Audio and Text Disagree: Revealing Text Bias in Large Audio-Language Models",
@@ -3576,7 +3595,7 @@
       "sourceUrl": "https://github.com/sfofgalaxy/awesome-audio-security-research/blob/main/categories/audio-language-model-safety.md"
     },
     {
-      "id": "audio-language-model-safety-benchmark-measurement-16-towards-holistic-evaluation-of-large-audio-language-models-a",
+      "id": "audio-language-model-safety-benchmark-measurement-17-towards-holistic-evaluation-of-large-audio-language-models-a",
       "year": 2025,
       "venue": "EMNLP",
       "title": "Towards Holistic Evaluation of Large Audio-Language Models: A Comprehensive Survey",
@@ -3593,7 +3612,7 @@
       "sourceUrl": "https://github.com/sfofgalaxy/awesome-audio-security-research/blob/main/categories/audio-language-model-safety.md"
     },
     {
-      "id": "audio-language-model-safety-benchmark-measurement-17-audio-reasoner-improving-reasoning-capability-in-large-audio",
+      "id": "audio-language-model-safety-benchmark-measurement-18-audio-reasoner-improving-reasoning-capability-in-large-audio",
       "year": 2025,
       "venue": "EMNLP",
       "title": "Audio-Reasoner: Improving Reasoning Capability in Large Audio Language Models",
@@ -3610,7 +3629,7 @@
       "sourceUrl": "https://github.com/sfofgalaxy/awesome-audio-security-research/blob/main/categories/audio-language-model-safety.md"
     },
     {
-      "id": "audio-language-model-safety-benchmark-measurement-18-voicebbq-investigating-effect-of-content-and-acoustics-in-so",
+      "id": "audio-language-model-safety-benchmark-measurement-19-voicebbq-investigating-effect-of-content-and-acoustics-in-so",
       "year": 2025,
       "venue": "EMNLP",
       "title": "VoiceBBQ: Investigating Effect of Content and Acoustics in Social Bias of Spoken Language Model",
@@ -3627,7 +3646,7 @@
       "sourceUrl": "https://github.com/sfofgalaxy/awesome-audio-security-research/blob/main/categories/audio-language-model-safety.md"
     },
     {
-      "id": "audio-language-model-safety-benchmark-measurement-19-who-gets-the-mic-investigating-gender-bias-in-the-speaker-as",
+      "id": "audio-language-model-safety-benchmark-measurement-20-who-gets-the-mic-investigating-gender-bias-in-the-speaker-as",
       "year": 2025,
       "venue": "Interspeech",
       "title": "Who Gets the Mic? Investigating Gender Bias in the Speaker Assignment of a Speech-LLM",
@@ -4222,8 +4241,8 @@
     }
   ],
   "stats": {
-    "paperCount": 234,
-    "linkedPaperCount": 123,
+    "paperCount": 235,
+    "linkedPaperCount": 124,
     "categoryCount": 8,
     "yearMin": 2025,
     "yearMax": 2026,
@@ -4236,7 +4255,7 @@
       "IEEE S&P": 10,
       "EMNLP": 10,
       "NeurIPS": 9,
-      "arXiv": 8,
+      "arXiv": 9,
       "NDSS": 6,
       "ACL": 4,
       "ACM CCS": 2
@@ -4247,7 +4266,7 @@
       "privacy": 24,
       "defense": 21,
       "watermark": 21,
-      "benchmark": 18,
+      "benchmark": 19,
       "anonymization": 18,
       "dataset": 13,
       "jailbreak": 12,
@@ -4266,6 +4285,7 @@
       "adversarial": 5,
       "localization": 4,
       "voice-conversion": 4,
+      "multilingual": 4,
       "speaker-verification": 4,
       "evaluation": 4,
       "authentication": 4,
@@ -4273,7 +4293,6 @@
       "bias": 4,
       "music": 4,
       "tts": 3,
-      "multilingual": 3,
       "unlearning": 3,
       "generated-audio": 3,
       "safety": 3,
@@ -4433,6 +4452,8 @@
       "backdoor": 1,
       "audio-injection": 1,
       "over-refusal": 1,
+      "fairness": 1,
+      "speech-model": 1,
       "dialogue": 1,
       "reasoning": 1,
       "spoken-language": 1,
@@ -4466,12 +4487,12 @@
       "headphone": 1
     },
     "yearCounts": {
-      "2026": 95,
+      "2026": 96,
       "2025": 139
     },
     "sectionCounts": {
       "Defense": 152,
-      "Benchmark & Measurement": 49,
+      "Benchmark & Measurement": 50,
       "Attack": 33
     }
   }

@@ -2,7 +2,7 @@
 
 [English README](README.md) · [网页](https://sfofgalaxy.github.io/awesome-audio-security-research/)
 
-这是一个公开收集 Audio Security / Audio Privacy / Trustworthy Audio AI 论文与资源的仓库。
+这是一个公开收集 Audio Security / Audio Privacy / Trustworthy Audio AI 论文与资源的仓库，也覆盖 speech-capable model 的 fairness、bias 与 trustworthiness 风险研究。
 
 ## 分类
 
@@ -12,7 +12,7 @@
 | [Voice Privacy、Anonymization 与 Speaker Protection](categories/voice-privacy-anonymization-and-speaker-protection.md) | 说话人匿名化、身份泄露、unlearning、隐私语音表示。 |
 | [Watermarking、Provenance 与 Data Rights](categories/watermarking-provenance-and-data-rights.md) | 音频水印、版权、provenance、生成音频真实性。 |
 | [ASR 与 Speech Translation Security](categories/asr-and-speech-translation-security.md) | ASR / 语音翻译的攻击、防御、隐私与鲁棒性。 |
-| [Audio-Language Model Safety](categories/audio-language-model-safety.md) | Jailbreak、prompt injection、guardrail、评测、幻觉、偏见。 |
+| [Audio-Language Model Safety](categories/audio-language-model-safety.md) | Jailbreak、prompt injection、guardrail、评测、幻觉、偏见、公平性与 trustworthiness。 |
 | [Side Channels 与 Physical Eavesdropping](categories/side-channels-and-physical-eavesdropping.md) | 声学、振动、传感器、会议音频、光纤、设备侧信道。 |
 | [Music 与 Singing Voice Security](categories/music-and-singing-voice-security.md) | AI 翻唱、歌声转换、生成音乐检测、音乐保护。 |
 | [Voice Authentication 与 Biometrics](categories/voice-authentication-and-biometrics.md) | Voice liveness、声纹认证安全、anti-spoofing、音频认证。 |
@@ -23,7 +23,7 @@
 
 每个分类文件按大类拆成 `Attack`、`Defense`、`Benchmark & Measurement`、`Other` 几个 section；表格按新到旧排序。
 
-默认只收主会 full paper 和高质量 arXiv；short、Findings、workshop、纯工具、position 文章默认不收。
+默认只收主会 full paper 和高质量 arXiv；short、Findings、workshop、纯工具、position 文章默认不收。对 speech model 的 safety work，只要 fairness、bias、trustworthiness 分析明确揭示部署风险，也纳入范围。
 
 - [Top-Venue Coverage 2025-2026](docs/top-venue-papers-2025-2026.md)
 - [Taxonomy](docs/taxonomy.md)
