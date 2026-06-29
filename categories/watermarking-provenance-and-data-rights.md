@@ -1,5 +1,11 @@
 # Watermarking, Provenance, and Data Rights
 
+## Attack
+
+| Year | Venue | Paper | Tags |
+| --- | --- | --- | --- |
+| 2026 | arXiv | [Learning to Evade: Adaptive Attacks on Audio Watermarking](https://arxiv.org/abs/2606.22310) | attack, watermark, evasion |
+
 ## Defense
 
 | Year | Venue | Paper | Tags |
@@ -27,5 +33,6 @@
 
 | Year | Venue | Paper | Tags |
 | --- | --- | --- | --- |
+| 2026 | arXiv | [The Watermark Shortcut: How Provenance Marking Sabotages Audio Deepfake Detection](https://arxiv.org/abs/2606.23335) | measurement, watermark, deepfake-detection |
 | 2026 | arXiv | [VoxWatermark: A Large-Scale Benchmark for Audio Watermark Detection under Perturbations](https://arxiv.org/abs/2606.15187) | benchmark, watermark, perturbation |
 | 2025 | ICLR | [Bridging the Data Provenance Gap Across Text, Speech, and Video](https://openreview.net/forum?id=G5DziesYxL) | provenance, multimodal |

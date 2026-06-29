@@ -54,11 +54,11 @@
       "descriptionZh": "音频水印、版权、provenance、生成音频真实性。",
       "sourcePath": "categories/watermarking-provenance-and-data-rights.md",
       "sourceUrl": "https://github.com/sfofgalaxy/awesome-audio-security-research/blob/main/categories/watermarking-provenance-and-data-rights.md",
-      "total": 20,
+      "total": 22,
       "sectionCounts": {
-        "Attack": 0,
+        "Attack": 1,
         "Defense": 18,
-        "Benchmark & Measurement": 2,
+        "Benchmark & Measurement": 3,
         "Other": 0
       }
     },
@@ -2496,6 +2496,24 @@
       "sourceUrl": "https://github.com/sfofgalaxy/awesome-audio-security-research/blob/main/categories/voice-privacy-anonymization-and-speaker-protection.md"
     },
     {
+      "id": "watermarking-provenance-and-data-rights-attack-1-learning-to-evade-adaptive-attacks-on-audio-watermarking",
+      "year": 2026,
+      "venue": "arXiv",
+      "title": "Learning to Evade: Adaptive Attacks on Audio Watermarking",
+      "url": "https://arxiv.org/abs/2606.22310",
+      "section": "Attack",
+      "tags": [
+        "attack",
+        "watermark",
+        "evasion"
+      ],
+      "categorySlug": "watermarking-provenance-and-data-rights",
+      "category": "Watermarking, Provenance, and Data Rights",
+      "categoryZh": "Watermarking、Provenance 与 Data Rights",
+      "sourcePath": "categories/watermarking-provenance-and-data-rights.md",
+      "sourceUrl": "https://github.com/sfofgalaxy/awesome-audio-security-research/blob/main/categories/watermarking-provenance-and-data-rights.md"
+    },
+    {
       "id": "watermarking-provenance-and-data-rights-defense-1-hidden-in-plain-tokens-simply-robust-gradient-free-watermark",
       "year": 2026,
       "venue": "ICML",
@@ -2812,7 +2830,25 @@
       "sourceUrl": "https://github.com/sfofgalaxy/awesome-audio-security-research/blob/main/categories/watermarking-provenance-and-data-rights.md"
     },
     {
-      "id": "watermarking-provenance-and-data-rights-benchmark-measurement-1-voxwatermark-a-large-scale-benchmark-for-audio-watermark-det",
+      "id": "watermarking-provenance-and-data-rights-benchmark-measurement-1-the-watermark-shortcut-how-provenance-marking-sabotages-audi",
+      "year": 2026,
+      "venue": "arXiv",
+      "title": "The Watermark Shortcut: How Provenance Marking Sabotages Audio Deepfake Detection",
+      "url": "https://arxiv.org/abs/2606.23335",
+      "section": "Benchmark & Measurement",
+      "tags": [
+        "measurement",
+        "watermark",
+        "deepfake-detection"
+      ],
+      "categorySlug": "watermarking-provenance-and-data-rights",
+      "category": "Watermarking, Provenance, and Data Rights",
+      "categoryZh": "Watermarking、Provenance 与 Data Rights",
+      "sourcePath": "categories/watermarking-provenance-and-data-rights.md",
+      "sourceUrl": "https://github.com/sfofgalaxy/awesome-audio-security-research/blob/main/categories/watermarking-provenance-and-data-rights.md"
+    },
+    {
+      "id": "watermarking-provenance-and-data-rights-benchmark-measurement-2-voxwatermark-a-large-scale-benchmark-for-audio-watermark-det",
       "year": 2026,
       "venue": "arXiv",
       "title": "VoxWatermark: A Large-Scale Benchmark for Audio Watermark Detection under Perturbations",
@@ -2830,7 +2866,7 @@
       "sourceUrl": "https://github.com/sfofgalaxy/awesome-audio-security-research/blob/main/categories/watermarking-provenance-and-data-rights.md"
     },
     {
-      "id": "watermarking-provenance-and-data-rights-benchmark-measurement-2-bridging-the-data-provenance-gap-across-text-speech-and-vide",
+      "id": "watermarking-provenance-and-data-rights-benchmark-measurement-3-bridging-the-data-provenance-gap-across-text-speech-and-vide",
       "year": 2025,
       "venue": "ICLR",
       "title": "Bridging the Data Provenance Gap Across Text, Speech, and Video",
@@ -4186,8 +4222,8 @@
     }
   ],
   "stats": {
-    "paperCount": 232,
-    "linkedPaperCount": 121,
+    "paperCount": 234,
+    "linkedPaperCount": 123,
     "categoryCount": 8,
     "yearMin": 2025,
     "yearMax": 2026,
@@ -4200,17 +4236,17 @@
       "IEEE S&P": 10,
       "EMNLP": 10,
       "NeurIPS": 9,
+      "arXiv": 8,
       "NDSS": 6,
-      "arXiv": 6,
       "ACL": 4,
       "ACM CCS": 2
     },
     "tagCounts": {
       "detection": 64,
-      "attack": 27,
+      "attack": 28,
       "privacy": 24,
       "defense": 21,
-      "watermark": 19,
+      "watermark": 21,
       "benchmark": 18,
       "anonymization": 18,
       "dataset": 13,
@@ -4257,6 +4293,7 @@
       "federated-learning": 2,
       "speaker-identification": 2,
       "copyright": 2,
+      "measurement": 2,
       "black-box": 2,
       "ultrasonic": 2,
       "guardrail": 2,
@@ -4369,6 +4406,7 @@
       "paper-19051": 1,
       "id-54053": 1,
       "children": 1,
+      "evasion": 1,
       "synthetic-audio": 1,
       "paper-17380": 1,
       "paper-13170": 1,
@@ -4384,6 +4422,7 @@
       "authenticity": 1,
       "id-50883": 1,
       "speech-generation": 1,
+      "deepfake-detection": 1,
       "perturbation": 1,
       "provenance": 1,
       "speech-translation": 1,
@@ -4394,7 +4433,6 @@
       "backdoor": 1,
       "audio-injection": 1,
       "over-refusal": 1,
-      "measurement": 1,
       "dialogue": 1,
       "reasoning": 1,
       "spoken-language": 1,
@@ -4428,13 +4466,13 @@
       "headphone": 1
     },
     "yearCounts": {
-      "2026": 93,
+      "2026": 95,
       "2025": 139
     },
     "sectionCounts": {
       "Defense": 152,
-      "Benchmark & Measurement": 48,
-      "Attack": 32
+      "Benchmark & Measurement": 49,
+      "Attack": 33
     }
   }
 }
