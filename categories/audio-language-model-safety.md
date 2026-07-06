@@ -34,6 +34,8 @@
 | 2026 | ICLR | [JALMBench: Benchmarking Jailbreak Vulnerabilities in Audio Language Models](https://openreview.net/forum?id=DJkQ236C8B) | benchmark, jailbreak |
 | 2026 | ICML | [LALM-as-a-Judge: Benchmarking Large Audio-Language Models for Safety Evaluation in Multi-Turn Spoken Dialogues](https://icml.cc/virtual/2026/poster/66557) | benchmark, safety |
 | 2026 | ICML | [Do Audio LLMs Listen or Read? Analyzing and Mitigating Paralinguistic Failures with VoxParadox](https://icml.cc/virtual/2026/poster/60946) | benchmark, trustworthiness |
+| 2026 | ACL | [Audio Jailbreak: An Open Comprehensive Benchmark for Jailbreaking Large Audio-Language Models](https://2026.aclweb.org/program/accepted_papers/) | benchmark, jailbreak, alm |
+| 2026 | ACL | [HalluAudio: A Comprehensive Benchmark for Hallucination Detection in Large Audio-Language Models](https://2026.aclweb.org/program/accepted_papers/) | benchmark, hallucination, alm |
 | 2026 | arXiv | [RedVox: Safety and Fairness Gaps in Speech Models Across Languages](https://arxiv.org/abs/2606.26968) | benchmark, fairness, multilingual, speech-model |
 | 2026 | arXiv | [Who Wins the Conflict? Mechanistic Interpretability of Text Bias in Audio LLMs](https://arxiv.org/abs/2606.18924) | measurement, bias, alm |
 | 2026 | arXiv | [SpeechJBB: Probing Safety Alignment and Comprehension in Large Audio Language Models under Code-Switched Speech](https://arxiv.org/abs/2606.06037) | benchmark, jailbreak, multilingual |

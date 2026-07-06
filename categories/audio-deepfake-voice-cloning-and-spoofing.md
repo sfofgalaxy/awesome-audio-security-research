@@ -18,6 +18,7 @@
 | 2026 | ICML | [Learning Tight Rejection Boundaries without Negatives for Strict One-Class Audio Deepfake Detection](https://icml.cc/virtual/2026/poster/63118) | detection, one-class |
 | 2026 | ICML | [Scaling Laws in Model Fine-tuning for Audio DeepFake Detection](https://icml.cc/virtual/2026/poster/60632) | detection, scaling |
 | 2026 | ICML | [SONAR: Spectral-Contrastive Audio Residuals for Generalizable Deepfake Detection](https://icml.cc/virtual/2026/poster/64783) | detection, generalization |
+| 2026 | ACL | [A Data-Centric Approach to Generalizable Speech Deepfake Detection](https://2026.aclweb.org/program/accepted_papers/) | detection, deepfake, generalization |
 | 2026 | ICASSP | RoCo: Robust Code for Fast and Effective Proactive Defense against Voice Cloning Attack | defense, voice-cloning, paper-10739 |
 | 2026 | ICASSP | XLSR-MAMBA: A DUAL-COLUMN BIDIRECTIONAL STATE SPACE MODEL FOR SPOOFING ATTACK DETECTION | spoofing, detection, paper-18903 |
 | 2026 | ICASSP | A PARAMETER-EFFICIENT MULTI-SCALE CONVOLUTIONAL ADAPTER FOR SYNTHETIC SPEECH DETECTION | detection, paper-14171 |
