@@ -1,7 +1,7 @@
 {
   "name": "Awesome Audio Security Research",
   "description": "A curated map of audio attacks, defenses, privacy, watermarking, and trustworthy audio AI.",
-  "collectionDate": "2026-07-06",
+  "collectionDate": "2026-07-14",
   "repo": {
     "url": "https://github.com/sfofgalaxy/awesome-audio-security-research",
     "pagesUrl": "https://sfofgalaxy.github.io/awesome-audio-security-research/",
@@ -22,11 +22,11 @@
       "descriptionZh": "语音 deepfake、TTS/VC 滥用、spoofing、检测、溯源、保护。",
       "sourcePath": "categories/audio-deepfake-voice-cloning-and-spoofing.md",
       "sourceUrl": "https://github.com/sfofgalaxy/awesome-audio-security-research/blob/main/categories/audio-deepfake-voice-cloning-and-spoofing.md",
-      "total": 98,
+      "total": 103,
       "sectionCounts": {
         "Attack": 3,
         "Defense": 79,
-        "Benchmark & Measurement": 16,
+        "Benchmark & Measurement": 21,
         "Other": 0
       }
     },
@@ -38,11 +38,11 @@
       "descriptionZh": "说话人匿名化、身份泄露、unlearning、隐私语音表示。",
       "sourcePath": "categories/voice-privacy-anonymization-and-speaker-protection.md",
       "sourceUrl": "https://github.com/sfofgalaxy/awesome-audio-security-research/blob/main/categories/voice-privacy-anonymization-and-speaker-protection.md",
-      "total": 39,
+      "total": 40,
       "sectionCounts": {
         "Attack": 4,
         "Defense": 29,
-        "Benchmark & Measurement": 6,
+        "Benchmark & Measurement": 7,
         "Other": 0
       }
     },
@@ -54,10 +54,10 @@
       "descriptionZh": "音频水印、版权、provenance、生成音频真实性。",
       "sourcePath": "categories/watermarking-provenance-and-data-rights.md",
       "sourceUrl": "https://github.com/sfofgalaxy/awesome-audio-security-research/blob/main/categories/watermarking-provenance-and-data-rights.md",
-      "total": 22,
+      "total": 23,
       "sectionCounts": {
         "Attack": 1,
-        "Defense": 18,
+        "Defense": 19,
         "Benchmark & Measurement": 3,
         "Other": 0
       }
@@ -70,9 +70,9 @@
       "descriptionZh": "ASR / 语音翻译的攻击、防御、隐私与鲁棒性。",
       "sourcePath": "categories/asr-and-speech-translation-security.md",
       "sourceUrl": "https://github.com/sfofgalaxy/awesome-audio-security-research/blob/main/categories/asr-and-speech-translation-security.md",
-      "total": 9,
+      "total": 10,
       "sectionCounts": {
-        "Attack": 4,
+        "Attack": 5,
         "Defense": 2,
         "Benchmark & Measurement": 3,
         "Other": 0
@@ -1676,7 +1676,99 @@
       "sourceUrl": "https://github.com/sfofgalaxy/awesome-audio-security-research/blob/main/categories/audio-deepfake-voice-cloning-and-spoofing.md"
     },
     {
-      "id": "audio-deepfake-voice-cloning-and-spoofing-benchmark-measurement-7-voicewukong-benchmarking-deepfake-voice-detection",
+      "id": "audio-deepfake-voice-cloning-and-spoofing-benchmark-measurement-7-voxenes-2026-benchmarking-generalization-of-speech-spoofing-",
+      "year": 2026,
+      "venue": "arXiv",
+      "title": "VoxENES 2026: Benchmarking Generalization of Speech Spoofing Detectors Against LLM-Era TTS and Voice Conversion",
+      "url": "https://arxiv.org/abs/2607.11706",
+      "section": "Benchmark & Measurement",
+      "tags": [
+        "benchmark",
+        "spoofing",
+        "tts",
+        "voice-conversion"
+      ],
+      "categorySlug": "audio-deepfake-voice-cloning-and-spoofing",
+      "category": "Audio Deepfake, Voice Cloning, and Spoofing",
+      "categoryZh": "Audio Deepfake、Voice Cloning 与 Spoofing",
+      "sourcePath": "categories/audio-deepfake-voice-cloning-and-spoofing.md",
+      "sourceUrl": "https://github.com/sfofgalaxy/awesome-audio-security-research/blob/main/categories/audio-deepfake-voice-cloning-and-spoofing.md"
+    },
+    {
+      "id": "audio-deepfake-voice-cloning-and-spoofing-benchmark-measurement-8-pc-mix-partial-component-audio-spoofing-detection-under-mixe",
+      "year": 2026,
+      "venue": "arXiv",
+      "title": "PC-Mix: Partial-Component Audio Spoofing Detection under Mixed Speech and Environmental Sound Conditions",
+      "url": "https://arxiv.org/abs/2607.10345",
+      "section": "Benchmark & Measurement",
+      "tags": [
+        "dataset",
+        "partial-spoofing",
+        "environmental-sound"
+      ],
+      "categorySlug": "audio-deepfake-voice-cloning-and-spoofing",
+      "category": "Audio Deepfake, Voice Cloning, and Spoofing",
+      "categoryZh": "Audio Deepfake、Voice Cloning 与 Spoofing",
+      "sourcePath": "categories/audio-deepfake-voice-cloning-and-spoofing.md",
+      "sourceUrl": "https://github.com/sfofgalaxy/awesome-audio-security-research/blob/main/categories/audio-deepfake-voice-cloning-and-spoofing.md"
+    },
+    {
+      "id": "audio-deepfake-voice-cloning-and-spoofing-benchmark-measurement-9-evidence-subspace-projection-measuring-how-much-evidence-exp",
+      "year": 2026,
+      "venue": "arXiv",
+      "title": "Evidence Subspace Projection: Measuring How Much Evidence Explains Deepfake Detection in Self-Supervised Speech Models",
+      "url": "https://arxiv.org/abs/2607.11538",
+      "section": "Benchmark & Measurement",
+      "tags": [
+        "measurement",
+        "explainability",
+        "deepfake-detection"
+      ],
+      "categorySlug": "audio-deepfake-voice-cloning-and-spoofing",
+      "category": "Audio Deepfake, Voice Cloning, and Spoofing",
+      "categoryZh": "Audio Deepfake、Voice Cloning 与 Spoofing",
+      "sourcePath": "categories/audio-deepfake-voice-cloning-and-spoofing.md",
+      "sourceUrl": "https://github.com/sfofgalaxy/awesome-audio-security-research/blob/main/categories/audio-deepfake-voice-cloning-and-spoofing.md"
+    },
+    {
+      "id": "audio-deepfake-voice-cloning-and-spoofing-benchmark-measurement-10-what-you-train-is-what-you-get-gender-bias-training-composit",
+      "year": 2026,
+      "venue": "arXiv",
+      "title": "What You Train Is What You Get: Gender Bias, Training Composition, and Post-Hoc Mitigation in Audio Deepfake Detection",
+      "url": "https://arxiv.org/abs/2607.09891",
+      "section": "Benchmark & Measurement",
+      "tags": [
+        "measurement",
+        "bias",
+        "fairness",
+        "deepfake-detection"
+      ],
+      "categorySlug": "audio-deepfake-voice-cloning-and-spoofing",
+      "category": "Audio Deepfake, Voice Cloning, and Spoofing",
+      "categoryZh": "Audio Deepfake、Voice Cloning 与 Spoofing",
+      "sourcePath": "categories/audio-deepfake-voice-cloning-and-spoofing.md",
+      "sourceUrl": "https://github.com/sfofgalaxy/awesome-audio-security-research/blob/main/categories/audio-deepfake-voice-cloning-and-spoofing.md"
+    },
+    {
+      "id": "audio-deepfake-voice-cloning-and-spoofing-benchmark-measurement-11-why-do-you-say-it-like-that-a-phoneme-level-framework-for-ex",
+      "year": 2026,
+      "venue": "arXiv",
+      "title": "Why Do You Say It Like That? A Phoneme-Level Framework for Explainable Speech Deepfake Detection",
+      "url": "https://arxiv.org/abs/2607.08586",
+      "section": "Benchmark & Measurement",
+      "tags": [
+        "measurement",
+        "explainability",
+        "phoneme"
+      ],
+      "categorySlug": "audio-deepfake-voice-cloning-and-spoofing",
+      "category": "Audio Deepfake, Voice Cloning, and Spoofing",
+      "categoryZh": "Audio Deepfake、Voice Cloning 与 Spoofing",
+      "sourcePath": "categories/audio-deepfake-voice-cloning-and-spoofing.md",
+      "sourceUrl": "https://github.com/sfofgalaxy/awesome-audio-security-research/blob/main/categories/audio-deepfake-voice-cloning-and-spoofing.md"
+    },
+    {
+      "id": "audio-deepfake-voice-cloning-and-spoofing-benchmark-measurement-12-voicewukong-benchmarking-deepfake-voice-detection",
       "year": 2025,
       "venue": "USENIX Security",
       "title": "VoiceWukong: Benchmarking Deepfake Voice Detection",
@@ -1693,7 +1785,7 @@
       "sourceUrl": "https://github.com/sfofgalaxy/awesome-audio-security-research/blob/main/categories/audio-deepfake-voice-cloning-and-spoofing.md"
     },
     {
-      "id": "audio-deepfake-voice-cloning-and-spoofing-benchmark-measurement-8-characterizing-the-impact-of-audio-deepfakes-in-the-presence",
+      "id": "audio-deepfake-voice-cloning-and-spoofing-benchmark-measurement-13-characterizing-the-impact-of-audio-deepfakes-in-the-presence",
       "year": 2025,
       "venue": "NDSS",
       "title": "Characterizing the Impact of Audio Deepfakes in the Presence of Cochlear Implant",
@@ -1710,7 +1802,7 @@
       "sourceUrl": "https://github.com/sfofgalaxy/awesome-audio-security-research/blob/main/categories/audio-deepfake-voice-cloning-and-spoofing.md"
     },
     {
-      "id": "audio-deepfake-voice-cloning-and-spoofing-benchmark-measurement-9-illusion-unveiling-truth-with-a-comprehensive-multi-modal-mu",
+      "id": "audio-deepfake-voice-cloning-and-spoofing-benchmark-measurement-14-illusion-unveiling-truth-with-a-comprehensive-multi-modal-mu",
       "year": 2025,
       "venue": "ICLR",
       "title": "ILLUSION: Unveiling Truth with a Comprehensive Multi-Modal, Multi-Lingual Deepfake Dataset",
@@ -1727,7 +1819,7 @@
       "sourceUrl": "https://github.com/sfofgalaxy/awesome-audio-security-research/blob/main/categories/audio-deepfake-voice-cloning-and-spoofing.md"
     },
     {
-      "id": "audio-deepfake-voice-cloning-and-spoofing-benchmark-measurement-10-speechfake-a-large-scale-multilingual-speech-deepfake-datase",
+      "id": "audio-deepfake-voice-cloning-and-spoofing-benchmark-measurement-15-speechfake-a-large-scale-multilingual-speech-deepfake-datase",
       "year": 2025,
       "venue": "ACL",
       "title": "SpeechFake: A Large-Scale Multilingual Speech Deepfake Dataset Incorporating Cutting-Edge Generation Methods",
@@ -1744,7 +1836,7 @@
       "sourceUrl": "https://github.com/sfofgalaxy/awesome-audio-security-research/blob/main/categories/audio-deepfake-voice-cloning-and-spoofing.md"
     },
     {
-      "id": "audio-deepfake-voice-cloning-and-spoofing-benchmark-measurement-11-brspeech-df-a-deep-fake-synthetic-speech-dataset-for-portugu",
+      "id": "audio-deepfake-voice-cloning-and-spoofing-benchmark-measurement-16-brspeech-df-a-deep-fake-synthetic-speech-dataset-for-portugu",
       "year": 2025,
       "venue": "EMNLP",
       "title": "BRSpeech-DF: A Deep Fake Synthetic Speech Dataset for Portuguese Zero-Shot TTS",
@@ -1761,7 +1853,7 @@
       "sourceUrl": "https://github.com/sfofgalaxy/awesome-audio-security-research/blob/main/categories/audio-deepfake-voice-cloning-and-spoofing.md"
     },
     {
-      "id": "audio-deepfake-voice-cloning-and-spoofing-benchmark-measurement-12-llamapartialspoof-an-llm-driven-fake-speech-dataset-simulati",
+      "id": "audio-deepfake-voice-cloning-and-spoofing-benchmark-measurement-17-llamapartialspoof-an-llm-driven-fake-speech-dataset-simulati",
       "year": 2025,
       "venue": "ICASSP",
       "title": "LlamaPartialSpoof: An LLM-Driven Fake Speech Dataset Simulating Disinformation Generation",
@@ -1779,7 +1871,7 @@
       "sourceUrl": "https://github.com/sfofgalaxy/awesome-audio-security-research/blob/main/categories/audio-deepfake-voice-cloning-and-spoofing.md"
     },
     {
-      "id": "audio-deepfake-voice-cloning-and-spoofing-benchmark-measurement-13-spoofceleb-speech-deepfake-detection-and-sasv-in-the-wild",
+      "id": "audio-deepfake-voice-cloning-and-spoofing-benchmark-measurement-18-spoofceleb-speech-deepfake-detection-and-sasv-in-the-wild",
       "year": 2025,
       "venue": "ICASSP",
       "title": "SpoofCeleb: Speech Deepfake Detection and SASV In The Wild",
@@ -1797,7 +1889,7 @@
       "sourceUrl": "https://github.com/sfofgalaxy/awesome-audio-security-research/blob/main/categories/audio-deepfake-voice-cloning-and-spoofing.md"
     },
     {
-      "id": "audio-deepfake-voice-cloning-and-spoofing-benchmark-measurement-14-stopa-a-dataset-of-systematic-variation-of-deepfake-audio-fo",
+      "id": "audio-deepfake-voice-cloning-and-spoofing-benchmark-measurement-19-stopa-a-dataset-of-systematic-variation-of-deepfake-audio-fo",
       "year": 2025,
       "venue": "Interspeech",
       "title": "STOPA: A Dataset of Systematic VariaTion Of DeePfake Audio for Open-Set Source Tracing and Attribution",
@@ -1814,7 +1906,7 @@
       "sourceUrl": "https://github.com/sfofgalaxy/awesome-audio-security-research/blob/main/categories/audio-deepfake-voice-cloning-and-spoofing.md"
     },
     {
-      "id": "audio-deepfake-voice-cloning-and-spoofing-benchmark-measurement-15-vcapav-a-video-caption-based-audio-visual-deepfake-detection",
+      "id": "audio-deepfake-voice-cloning-and-spoofing-benchmark-measurement-20-vcapav-a-video-caption-based-audio-visual-deepfake-detection",
       "year": 2025,
       "venue": "Interspeech",
       "title": "VCapAV: A Video-Caption Based Audio-Visual Deepfake Detection Dataset",
@@ -1831,7 +1923,7 @@
       "sourceUrl": "https://github.com/sfofgalaxy/awesome-audio-security-research/blob/main/categories/audio-deepfake-voice-cloning-and-spoofing.md"
     },
     {
-      "id": "audio-deepfake-voice-cloning-and-spoofing-benchmark-measurement-16-collecting-curating-and-annotating-good-quality-speech-deepf",
+      "id": "audio-deepfake-voice-cloning-and-spoofing-benchmark-measurement-21-collecting-curating-and-annotating-good-quality-speech-deepf",
       "year": 2025,
       "venue": "Interspeech",
       "title": "Collecting, Curating, and Annotating Good Quality Speech deepfake dataset for Famous Figures: Process and Challenges",
@@ -2497,7 +2589,25 @@
       "sourceUrl": "https://github.com/sfofgalaxy/awesome-audio-security-research/blob/main/categories/voice-privacy-anonymization-and-speaker-protection.md"
     },
     {
-      "id": "voice-privacy-anonymization-and-speaker-protection-benchmark-measurement-5-the-first-voiceprivacy-attacker-challenge",
+      "id": "voice-privacy-anonymization-and-speaker-protection-benchmark-measurement-5-goodbye-equal-error-rate-hello-local-information-disclosure-",
+      "year": 2026,
+      "venue": "arXiv",
+      "title": "Goodbye Equal Error Rate, Hello Local Information Disclosure: Evaluating Voice Anonymisation against 1-to-N Linkage Threats",
+      "url": "https://arxiv.org/abs/2607.06259",
+      "section": "Benchmark & Measurement",
+      "tags": [
+        "measurement",
+        "anonymization",
+        "linkage"
+      ],
+      "categorySlug": "voice-privacy-anonymization-and-speaker-protection",
+      "category": "Voice Privacy, Anonymization, and Speaker Protection",
+      "categoryZh": "Voice Privacy、Anonymization 与 Speaker Protection",
+      "sourcePath": "categories/voice-privacy-anonymization-and-speaker-protection.md",
+      "sourceUrl": "https://github.com/sfofgalaxy/awesome-audio-security-research/blob/main/categories/voice-privacy-anonymization-and-speaker-protection.md"
+    },
+    {
+      "id": "voice-privacy-anonymization-and-speaker-protection-benchmark-measurement-6-the-first-voiceprivacy-attacker-challenge",
       "year": 2025,
       "venue": "ICASSP",
       "title": "The First VoicePrivacy Attacker Challenge",
@@ -2515,7 +2625,7 @@
       "sourceUrl": "https://github.com/sfofgalaxy/awesome-audio-security-research/blob/main/categories/voice-privacy-anonymization-and-speaker-protection.md"
     },
     {
-      "id": "voice-privacy-anonymization-and-speaker-protection-benchmark-measurement-6-children-s-voice-privacy-first-steps-and-emerging-challenges",
+      "id": "voice-privacy-anonymization-and-speaker-protection-benchmark-measurement-7-children-s-voice-privacy-first-steps-and-emerging-challenges",
       "year": 2025,
       "venue": "Interspeech",
       "title": "Children's Voice Privacy: First Steps and Emerging Challenges",
@@ -2585,7 +2695,25 @@
       "sourceUrl": "https://github.com/sfofgalaxy/awesome-audio-security-research/blob/main/categories/watermarking-provenance-and-data-rights.md"
     },
     {
-      "id": "watermarking-provenance-and-data-rights-defense-3-aura-a-stegaformer-based-scalable-deep-audio-watermark-with-",
+      "id": "watermarking-provenance-and-data-rights-defense-3-musicmark-a-robust-generative-watermarking-framework-for-mus",
+      "year": 2026,
+      "venue": "arXiv",
+      "title": "MusicMark: A Robust Generative Watermarking Framework for Music Generation",
+      "url": "https://arxiv.org/abs/2607.11117",
+      "section": "Defense",
+      "tags": [
+        "watermark",
+        "music",
+        "provenance"
+      ],
+      "categorySlug": "watermarking-provenance-and-data-rights",
+      "category": "Watermarking, Provenance, and Data Rights",
+      "categoryZh": "Watermarking、Provenance 与 Data Rights",
+      "sourcePath": "categories/watermarking-provenance-and-data-rights.md",
+      "sourceUrl": "https://github.com/sfofgalaxy/awesome-audio-security-research/blob/main/categories/watermarking-provenance-and-data-rights.md"
+    },
+    {
+      "id": "watermarking-provenance-and-data-rights-defense-4-aura-a-stegaformer-based-scalable-deep-audio-watermark-with-",
       "year": 2026,
       "venue": "ICASSP",
       "title": "AURA: A STEGAFORMER-BASED SCALABLE DEEP AUDIO WATERMARK WITH EXTREME ROBUSTNESS",
@@ -2602,7 +2730,7 @@
       "sourceUrl": "https://github.com/sfofgalaxy/awesome-audio-security-research/blob/main/categories/watermarking-provenance-and-data-rights.md"
     },
     {
-      "id": "watermarking-provenance-and-data-rights-defense-4-linguard-authenticating-speech-recordings-using-speech-recog",
+      "id": "watermarking-provenance-and-data-rights-defense-5-linguard-authenticating-speech-recordings-using-speech-recog",
       "year": 2026,
       "venue": "ICASSP",
       "title": "LINGUARD: AUTHENTICATING SPEECH RECORDINGS USING SPEECH RECOGNITION AND WATERMARK",
@@ -2620,7 +2748,7 @@
       "sourceUrl": "https://github.com/sfofgalaxy/awesome-audio-security-research/blob/main/categories/watermarking-provenance-and-data-rights.md"
     },
     {
-      "id": "watermarking-provenance-and-data-rights-defense-5-streammark-a-deep-learning-based-semi-fragile-audio-watermar",
+      "id": "watermarking-provenance-and-data-rights-defense-6-streammark-a-deep-learning-based-semi-fragile-audio-watermar",
       "year": 2026,
       "venue": "ICASSP",
       "title": "STREAMMARK: A DEEP LEARNING-BASED SEMI-FRAGILE AUDIO WATERMARKING FOR PROACTIVE DEEPFAKE DETECTION",
@@ -2638,7 +2766,7 @@
       "sourceUrl": "https://github.com/sfofgalaxy/awesome-audio-security-research/blob/main/categories/watermarking-provenance-and-data-rights.md"
     },
     {
-      "id": "watermarking-provenance-and-data-rights-defense-6-the-impact-of-audio-watermarking-on-audio-anti-spoofing-coun",
+      "id": "watermarking-provenance-and-data-rights-defense-7-the-impact-of-audio-watermarking-on-audio-anti-spoofing-coun",
       "year": 2026,
       "venue": "ICASSP",
       "title": "THE IMPACT OF AUDIO WATERMARKING ON AUDIO ANTI-SPOOFING COUNTERMEASURES",
@@ -2656,7 +2784,7 @@
       "sourceUrl": "https://github.com/sfofgalaxy/awesome-audio-security-research/blob/main/categories/watermarking-provenance-and-data-rights.md"
     },
     {
-      "id": "watermarking-provenance-and-data-rights-defense-7-audio-watermark-dynamic-and-harmless-watermark-for-black-box",
+      "id": "watermarking-provenance-and-data-rights-defense-8-audio-watermark-dynamic-and-harmless-watermark-for-black-box",
       "year": 2025,
       "venue": "USENIX Security",
       "title": "AUDIO WATERMARK: Dynamic and Harmless Watermark for Black-box Voice Dataset Copyright Protection",
@@ -2673,7 +2801,7 @@
       "sourceUrl": "https://github.com/sfofgalaxy/awesome-audio-security-research/blob/main/categories/watermarking-provenance-and-data-rights.md"
     },
     {
-      "id": "watermarking-provenance-and-data-rights-defense-8-audiomarknet-audio-watermarking-for-deepfake-speech-detectio",
+      "id": "watermarking-provenance-and-data-rights-defense-9-audiomarknet-audio-watermarking-for-deepfake-speech-detectio",
       "year": 2025,
       "venue": "USENIX Security",
       "title": "AudioMarkNet: Audio Watermarking for Deepfake Speech Detection",
@@ -2690,7 +2818,7 @@
       "sourceUrl": "https://github.com/sfofgalaxy/awesome-audio-security-research/blob/main/categories/watermarking-provenance-and-data-rights.md"
     },
     {
-      "id": "watermarking-provenance-and-data-rights-defense-9-xattnmark-learning-robust-audio-watermarking-with-cross-atte",
+      "id": "watermarking-provenance-and-data-rights-defense-10-xattnmark-learning-robust-audio-watermarking-with-cross-atte",
       "year": 2025,
       "venue": "ICML",
       "title": "XAttnMark: Learning Robust Audio Watermarking with Cross-Attention",
@@ -2707,7 +2835,7 @@
       "sourceUrl": "https://github.com/sfofgalaxy/awesome-audio-security-research/blob/main/categories/watermarking-provenance-and-data-rights.md"
     },
     {
-      "id": "watermarking-provenance-and-data-rights-defense-10-robust-distortion-free-watermark-for-autoregressive-audio-ge",
+      "id": "watermarking-provenance-and-data-rights-defense-11-robust-distortion-free-watermark-for-autoregressive-audio-ge",
       "year": 2025,
       "venue": "NeurIPS",
       "title": "Robust Distortion-Free Watermark for Autoregressive Audio Generation Models",
@@ -2724,7 +2852,7 @@
       "sourceUrl": "https://github.com/sfofgalaxy/awesome-audio-security-research/blob/main/categories/watermarking-provenance-and-data-rights.md"
     },
     {
-      "id": "watermarking-provenance-and-data-rights-defense-11-an-imperceptible-adversarial-watermarking-to-prevent-voice-c",
+      "id": "watermarking-provenance-and-data-rights-defense-12-an-imperceptible-adversarial-watermarking-to-prevent-voice-c",
       "year": 2025,
       "venue": "ICASSP",
       "title": "An imperceptible adversarial watermarking to prevent voice cloning",
@@ -2742,7 +2870,7 @@
       "sourceUrl": "https://github.com/sfofgalaxy/awesome-audio-security-research/blob/main/categories/watermarking-provenance-and-data-rights.md"
     },
     {
-      "id": "watermarking-provenance-and-data-rights-defense-12-latent-watermarking-of-audio-generative-models",
+      "id": "watermarking-provenance-and-data-rights-defense-13-latent-watermarking-of-audio-generative-models",
       "year": 2025,
       "venue": "ICASSP",
       "title": "Latent Watermarking of Audio generative Models",
@@ -2760,7 +2888,7 @@
       "sourceUrl": "https://github.com/sfofgalaxy/awesome-audio-security-research/blob/main/categories/watermarking-provenance-and-data-rights.md"
     },
     {
-      "id": "watermarking-provenance-and-data-rights-defense-13-poisoning-the-diffusion-a-simple-and-robust-watermarking-met",
+      "id": "watermarking-provenance-and-data-rights-defense-14-poisoning-the-diffusion-a-simple-and-robust-watermarking-met",
       "year": 2025,
       "venue": "ICASSP",
       "title": "Poisoning The Diffusion: A Simple and Robust Watermarking Method for Audio Generation",
@@ -2778,7 +2906,7 @@
       "sourceUrl": "https://github.com/sfofgalaxy/awesome-audio-security-research/blob/main/categories/watermarking-provenance-and-data-rights.md"
     },
     {
-      "id": "watermarking-provenance-and-data-rights-defense-14-optimized-dynamic-watermarking-for-audio-dnns-with-adaptive-",
+      "id": "watermarking-provenance-and-data-rights-defense-15-optimized-dynamic-watermarking-for-audio-dnns-with-adaptive-",
       "year": 2025,
       "venue": "ICASSP",
       "title": "Optimized Dynamic Watermarking for Audio DNNs with Adaptive Embedding and Boundary Sampling",
@@ -2796,7 +2924,7 @@
       "sourceUrl": "https://github.com/sfofgalaxy/awesome-audio-security-research/blob/main/categories/watermarking-provenance-and-data-rights.md"
     },
     {
-      "id": "watermarking-provenance-and-data-rights-defense-15-audio-codec-augmentation-for-robust-collaborative-watermarki",
+      "id": "watermarking-provenance-and-data-rights-defense-16-audio-codec-augmentation-for-robust-collaborative-watermarki",
       "year": 2025,
       "venue": "ICASSP",
       "title": "Audio Codec Augmentation for Robust Collaborative Watermarking of Speech Synthesis",
@@ -2814,7 +2942,7 @@
       "sourceUrl": "https://github.com/sfofgalaxy/awesome-audio-security-research/blob/main/categories/watermarking-provenance-and-data-rights.md"
     },
     {
-      "id": "watermarking-provenance-and-data-rights-defense-16-wmcodec-end-to-end-neural-speech-codec-with-deep-watermarkin",
+      "id": "watermarking-provenance-and-data-rights-defense-17-wmcodec-end-to-end-neural-speech-codec-with-deep-watermarkin",
       "year": 2025,
       "venue": "ICASSP",
       "title": "WMCodec: End-to-End Neural Speech Codec with Deep Watermarking for Authenticity Verification",
@@ -2832,7 +2960,7 @@
       "sourceUrl": "https://github.com/sfofgalaxy/awesome-audio-security-research/blob/main/categories/watermarking-provenance-and-data-rights.md"
     },
     {
-      "id": "watermarking-provenance-and-data-rights-defense-17-defending-unauthorized-voice-cloning-with-watermark-aware-co",
+      "id": "watermarking-provenance-and-data-rights-defense-18-defending-unauthorized-voice-cloning-with-watermark-aware-co",
       "year": 2025,
       "venue": "Interspeech",
       "title": "Defending Unauthorized Voice Cloning with Watermark-Aware Codecs",
@@ -2849,7 +2977,7 @@
       "sourceUrl": "https://github.com/sfofgalaxy/awesome-audio-security-research/blob/main/categories/watermarking-provenance-and-data-rights.md"
     },
     {
-      "id": "watermarking-provenance-and-data-rights-defense-18-a-watermark-for-auto-regressive-speech-generation-models",
+      "id": "watermarking-provenance-and-data-rights-defense-19-a-watermark-for-auto-regressive-speech-generation-models",
       "year": 2025,
       "venue": "Interspeech",
       "title": "A Watermark for Auto-Regressive Speech Generation Models",
@@ -2936,7 +3064,25 @@
       "sourceUrl": "https://github.com/sfofgalaxy/awesome-audio-security-research/blob/main/categories/asr-and-speech-translation-security.md"
     },
     {
-      "id": "asr-and-speech-translation-security-attack-2-evilharmony-stealthy-adversarial-attacks-against-black-box-s",
+      "id": "asr-and-speech-translation-security-attack-2-generative-testing-of-automated-speech-recognition-systems",
+      "year": 2026,
+      "venue": "arXiv",
+      "title": "Generative Testing of Automated Speech Recognition Systems",
+      "url": "https://arxiv.org/abs/2607.09833",
+      "section": "Attack",
+      "tags": [
+        "attack",
+        "black-box",
+        "asr"
+      ],
+      "categorySlug": "asr-and-speech-translation-security",
+      "category": "ASR and Speech Translation Security",
+      "categoryZh": "ASR 与 Speech Translation Security",
+      "sourcePath": "categories/asr-and-speech-translation-security.md",
+      "sourceUrl": "https://github.com/sfofgalaxy/awesome-audio-security-research/blob/main/categories/asr-and-speech-translation-security.md"
+    },
+    {
+      "id": "asr-and-speech-translation-security-attack-3-evilharmony-stealthy-adversarial-attacks-against-black-box-s",
       "year": 2025,
       "venue": "IEEE S&P",
       "title": "EvilHarmony: Stealthy Adversarial Attacks against Black-box Speech Recognition Systems",
@@ -2954,7 +3100,7 @@
       "sourceUrl": "https://github.com/sfofgalaxy/awesome-audio-security-research/blob/main/categories/asr-and-speech-translation-security.md"
     },
     {
-      "id": "asr-and-speech-translation-security-attack-3-when-translators-refuse-to-translate-a-novel-attack-to-speec",
+      "id": "asr-and-speech-translation-security-attack-4-when-translators-refuse-to-translate-a-novel-attack-to-speec",
       "year": 2025,
       "venue": "USENIX Security",
       "title": "When Translators Refuse to Translate: A Novel Attack to Speech Translation Systems",
@@ -2971,7 +3117,7 @@
       "sourceUrl": "https://github.com/sfofgalaxy/awesome-audio-security-research/blob/main/categories/asr-and-speech-translation-security.md"
     },
     {
-      "id": "asr-and-speech-translation-security-attack-4-generating-targeted-universal-adversarial-perturbation-again",
+      "id": "asr-and-speech-translation-security-attack-5-generating-targeted-universal-adversarial-perturbation-again",
       "year": 2025,
       "venue": "ICASSP",
       "title": "Generating Targeted Universal Adversarial Perturbation against Automatic Speech Recognition via Phoneme Tailoring",
@@ -3739,7 +3885,7 @@
       "year": 2026,
       "venue": "IEEE S&P",
       "title": "Banshee: Target Switch Attacks on Gimbal-Stabilized Visual Tracking Systems via Acoustic Injection",
-      "url": null,
+      "url": "https://arxiv.org/abs/2607.09930",
       "section": "Attack",
       "tags": [
         "attack",
@@ -4313,8 +4459,8 @@
     }
   ],
   "stats": {
-    "paperCount": 239,
-    "linkedPaperCount": 128,
+    "paperCount": 247,
+    "linkedPaperCount": 137,
     "categoryCount": 8,
     "yearMin": 2025,
     "yearMax": 2026,
@@ -4322,51 +4468,54 @@
       "ICASSP": 101,
       "Interspeech": 39,
       "ICML": 19,
+      "arXiv": 17,
       "USENIX Security": 13,
       "ICLR": 13,
       "IEEE S&P": 10,
       "EMNLP": 10,
       "NeurIPS": 9,
-      "arXiv": 9,
       "ACL": 8,
       "NDSS": 6,
       "ACM CCS": 2
     },
     "tagCounts": {
       "detection": 65,
-      "attack": 28,
+      "attack": 29,
       "privacy": 25,
+      "benchmark": 22,
       "defense": 22,
-      "benchmark": 21,
-      "watermark": 21,
-      "anonymization": 18,
-      "dataset": 13,
+      "watermark": 22,
+      "anonymization": 19,
+      "dataset": 14,
       "jailbreak": 13,
       "robustness": 11,
+      "asr": 9,
+      "spoofing": 8,
       "anti-spoofing": 8,
       "source-tracing": 8,
       "alm": 8,
-      "asr": 8,
       "voice-cloning": 7,
       "generalization": 7,
-      "spoofing": 7,
       "audio-visual": 6,
       "attribution": 6,
+      "measurement": 6,
       "singing-voice": 6,
+      "voice-conversion": 5,
+      "bias": 5,
       "multimodal": 5,
       "adversarial": 5,
+      "music": 5,
       "hallucination": 5,
       "localization": 4,
-      "voice-conversion": 4,
+      "tts": 4,
       "multilingual": 4,
       "speaker-verification": 4,
       "evaluation": 4,
       "authentication": 4,
-      "bias": 4,
-      "music": 4,
-      "tts": 3,
+      "deepfake-detection": 3,
       "unlearning": 3,
       "generated-audio": 3,
+      "black-box": 3,
       "safety": 3,
       "trustworthiness": 3,
       "replay": 2,
@@ -4382,11 +4531,13 @@
       "human-study": 2,
       "sasv": 2,
       "challenge": 2,
+      "environmental-sound": 2,
+      "explainability": 2,
+      "fairness": 2,
       "federated-learning": 2,
       "speaker-identification": 2,
+      "provenance": 2,
       "copyright": 2,
-      "measurement": 2,
-      "black-box": 2,
       "ultrasonic": 2,
       "guardrail": 2,
       "eavesdropping": 2,
@@ -4460,8 +4611,9 @@
       "paper-8921": 1,
       "paper-19130": 1,
       "paper-15434": 1,
-      "environmental-sound": 1,
       "paper-19019": 1,
+      "partial-spoofing": 1,
+      "phoneme": 1,
       "accessibility": 1,
       "id-49996": 1,
       "id-53823": 1,
@@ -4496,6 +4648,7 @@
       "paper-11020": 1,
       "paper-16493": 1,
       "paper-19051": 1,
+      "linkage": 1,
       "id-54053": 1,
       "children": 1,
       "evasion": 1,
@@ -4514,9 +4667,7 @@
       "authenticity": 1,
       "id-50883": 1,
       "speech-generation": 1,
-      "deepfake-detection": 1,
       "perturbation": 1,
-      "provenance": 1,
       "speech-translation": 1,
       "id-51522": 1,
       "id-46951": 1,
@@ -4525,7 +4676,6 @@
       "backdoor": 1,
       "audio-injection": 1,
       "over-refusal": 1,
-      "fairness": 1,
       "speech-model": 1,
       "dialogue": 1,
       "reasoning": 1,
@@ -4560,13 +4710,13 @@
       "headphone": 1
     },
     "yearCounts": {
-      "2026": 100,
+      "2026": 108,
       "2025": 139
     },
     "sectionCounts": {
-      "Defense": 154,
-      "Benchmark & Measurement": 52,
-      "Attack": 33
+      "Defense": 155,
+      "Benchmark & Measurement": 58,
+      "Attack": 34
     }
   }
 }

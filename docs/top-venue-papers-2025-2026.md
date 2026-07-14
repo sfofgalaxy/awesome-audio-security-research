@@ -1,6 +1,6 @@
 # Top-Venue Coverage 2025-2026
 
-Collection date: 2026-07-06.
+Collection date: 2026-07-14.
 
 Paper entries are maintained in category files. Each category file is split into `Attack`, `Defense`, `Benchmark & Measurement`, and `Other` sections, and each table is sorted newest first.
 
@@ -22,16 +22,16 @@ Paper entries are maintained in category files. Each category file is split into
 | Group | Venue | 2025 | 2026 |
 | --- | --- | --- | --- |
 | Security | IEEE S&P | Collected | Collected |
-| Security | USENIX Security | Collected | Cycle 1 collected; later cycles pending if not public |
-| Security | ACM CCS | Collected | Pending: accepted list not public as of 2026-05-31 |
+| Security | USENIX Security | Collected | Cycle 1 collected; Cycle 2 accepted list not public as of 2026-07-14 |
+| Security | ACM CCS | Collected | Pending: accepted list not public as of 2026-07-14 |
 | Security | NDSS | Collected | Collected |
 | AI | ICLR | Collected | Collected |
 | AI | ICML | Collected | Collected |
-| AI | NeurIPS | Collected | Pending: accepted list not public as of 2026-05-31 |
+| AI | NeurIPS | Collected | Pending: accepted list not public as of 2026-07-14 |
 | NLP | ACL | Collected | Collected |
-| NLP | EMNLP | Collected | Pending: no public accepted list found |
+| NLP | EMNLP | Collected | Pending: no public accepted list found as of 2026-07-14 |
 | Speech | ICASSP | Collected from official program API | Collected |
-| Speech | Interspeech | Collected | Pending: ISCA archive not public yet |
+| Speech | Interspeech | Collected | Pending: ISCA archive not public as of 2026-07-14 |
 
 ## Official Sources
 

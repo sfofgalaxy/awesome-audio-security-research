@@ -5,6 +5,7 @@
 | Year | Venue | Paper | Tags |
 | --- | --- | --- | --- |
 | 2026 | ICML | [Hearing Without Noticing? Attention-Aware Stealthy Black-box Adversarial Audio Attacks](https://icml.cc/virtual/2026/poster/63275) | attack, black-box |
+| 2026 | arXiv | [Generative Testing of Automated Speech Recognition Systems](https://arxiv.org/abs/2607.09833) | attack, black-box, asr |
 | 2025 | IEEE S&P | EvilHarmony: Stealthy Adversarial Attacks against Black-box Speech Recognition Systems | attack, asr, black-box |
 | 2025 | USENIX Security | [When Translators Refuse to Translate: A Novel Attack to Speech Translation Systems](https://www.usenix.org/conference/usenixsecurity25/presentation/wu-haolin) | attack, speech-translation |
 | 2025 | ICASSP | Generating Targeted Universal Adversarial Perturbation against Automatic Speech Recognition via Phoneme Tailoring | attack, asr, id-51522 |

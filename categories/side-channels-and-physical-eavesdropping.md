@@ -4,7 +4,7 @@
 
 | Year | Venue | Paper | Tags |
 | --- | --- | --- | --- |
-| 2026 | IEEE S&P | Banshee: Target Switch Attacks on Gimbal-Stabilized Visual Tracking Systems via Acoustic Injection | attack, acoustic-injection |
+| 2026 | IEEE S&P | [Banshee: Target Switch Attacks on Gimbal-Stabilized Visual Tracking Systems via Acoustic Injection](https://arxiv.org/abs/2607.09930) | attack, acoustic-injection |
 | 2026 | NDSS | [Hiding an Ear in Plain Sight: On the Practicality and Implications of Acoustic Eavesdropping with Telecom Fiber Optic Cables](https://www.ndss-symposium.org/ndss-paper/hiding-an-ear-in-plain-sight-on-the-practicality-and-implications-of-acoustic-eavesdropping-with-telecom-fiber-optic-cables/) | attack, eavesdropping, fiber |
 | 2025 | IEEE S&P | Sniffing Location Privacy of Video Conference Users Using Free Audio Channels | attack, privacy |
 | 2025 | USENIX Security | [Sound of Interference: Electromagnetic Eavesdropping Attack on Digital Microphones Using Pulse Density Modulation](https://www.usenix.org/conference/usenixsecurity25/presentation/onishi) | attack, microphone, side-channel |

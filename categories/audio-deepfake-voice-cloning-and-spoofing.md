@@ -102,6 +102,11 @@
 | 2026 | ICASSP | WildSpoof: Advancing In-the-wild Data in Text-to-speech Generation and Spoofing-aware Automatic Speaker Verification | dataset, sasv, paper-19130 |
 | 2026 | ICASSP | A SUPERB-Style Benchmark of Self-Supervised Speech Models for Audio Deepfake Detection | benchmark, detection, paper-15434 |
 | 2026 | ICASSP | Environmental Sound Deepfake Detection Challenge: An Overview | challenge, environmental-sound, paper-19019 |
+| 2026 | arXiv | [VoxENES 2026: Benchmarking Generalization of Speech Spoofing Detectors Against LLM-Era TTS and Voice Conversion](https://arxiv.org/abs/2607.11706) | benchmark, spoofing, tts, voice-conversion |
+| 2026 | arXiv | [PC-Mix: Partial-Component Audio Spoofing Detection under Mixed Speech and Environmental Sound Conditions](https://arxiv.org/abs/2607.10345) | dataset, partial-spoofing, environmental-sound |
+| 2026 | arXiv | [Evidence Subspace Projection: Measuring How Much Evidence Explains Deepfake Detection in Self-Supervised Speech Models](https://arxiv.org/abs/2607.11538) | measurement, explainability, deepfake-detection |
+| 2026 | arXiv | [What You Train Is What You Get: Gender Bias, Training Composition, and Post-Hoc Mitigation in Audio Deepfake Detection](https://arxiv.org/abs/2607.09891) | measurement, bias, fairness, deepfake-detection |
+| 2026 | arXiv | [Why Do You Say It Like That? A Phoneme-Level Framework for Explainable Speech Deepfake Detection](https://arxiv.org/abs/2607.08586) | measurement, explainability, phoneme |
 | 2025 | USENIX Security | [VoiceWukong: Benchmarking Deepfake Voice Detection](https://www.usenix.org/conference/usenixsecurity25/presentation/yan-ziwei) | benchmark, detection |
 | 2025 | NDSS | [Characterizing the Impact of Audio Deepfakes in the Presence of Cochlear Implant](https://www.ndss-symposium.org/ndss-paper/characterizing-the-impact-of-audio-deepfakes-in-the-presence-of-cochlear-implant/) | human-study, accessibility |
 | 2025 | ICLR | [ILLUSION: Unveiling Truth with a Comprehensive Multi-Modal, Multi-Lingual Deepfake Dataset](https://openreview.net/forum?id=qnlG3zPQUy) | dataset, multimodal |

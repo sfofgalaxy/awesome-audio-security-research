@@ -12,6 +12,7 @@
 | --- | --- | --- | --- |
 | 2026 | ICML | [Hidden in Plain Tokens: Simply Robust, Gradient-Free Watermark for Synthetic Audio](https://icml.cc/virtual/2026/poster/62388) | watermark, synthetic-audio |
 | 2026 | arXiv | [DuraMark: Duration-Embedded Watermarking in LLM-based TTS](https://arxiv.org/abs/2606.15264) | watermark, tts, voice-cloning |
+| 2026 | arXiv | [MusicMark: A Robust Generative Watermarking Framework for Music Generation](https://arxiv.org/abs/2607.11117) | watermark, music, provenance |
 | 2026 | ICASSP | AURA: A STEGAFORMER-BASED SCALABLE DEEP AUDIO WATERMARK WITH EXTREME ROBUSTNESS | watermark, paper-17380 |
 | 2026 | ICASSP | LINGUARD: AUTHENTICATING SPEECH RECORDINGS USING SPEECH RECOGNITION AND WATERMARK | authentication, watermark, paper-13170 |
 | 2026 | ICASSP | STREAMMARK: A DEEP LEARNING-BASED SEMI-FRAGILE AUDIO WATERMARKING FOR PROACTIVE DEEPFAKE DETECTION | watermark, detection, paper-9970 |
