@@ -1,6 +1,6 @@
 # Top-Venue Coverage 2025-2026
 
-Collection date: 2026-07-14.
+Collection date: 2026-07-20.
 
 Paper entries are maintained in category files. Each category file is split into `Attack`, `Defense`, `Benchmark & Measurement`, and `Other` sections, and each table is sorted newest first.
 
@@ -22,16 +22,16 @@ Paper entries are maintained in category files. Each category file is split into
 | Group | Venue | 2025 | 2026 |
 | --- | --- | --- | --- |
 | Security | IEEE S&P | Collected | Collected |
-| Security | USENIX Security | Collected | Cycle 1 collected; Cycle 2 accepted list not public as of 2026-07-14 |
-| Security | ACM CCS | Collected | Pending: accepted list not public as of 2026-07-14 |
+| Security | USENIX Security | Collected | Collected from official technical sessions |
+| Security | ACM CCS | Collected | Pending: accepted list not public as of 2026-07-20 |
 | Security | NDSS | Collected | Collected |
 | AI | ICLR | Collected | Collected |
 | AI | ICML | Collected | Collected |
-| AI | NeurIPS | Collected | Pending: accepted list not public as of 2026-07-14 |
+| AI | NeurIPS | Collected | Pending: accepted list not public as of 2026-07-20 |
 | NLP | ACL | Collected | Collected |
-| NLP | EMNLP | Collected | Pending: no public accepted list found as of 2026-07-14 |
+| NLP | EMNLP | Collected | Pending: no reliable public accepted list found as of 2026-07-20 |
 | Speech | ICASSP | Collected from official program API | Collected |
-| Speech | Interspeech | Collected | Pending: ISCA archive not public as of 2026-07-14 |
+| Speech | Interspeech | Collected | Preliminary programme collected; ISCA archive not public as of 2026-07-20 |
 
 ## Official Sources
 
@@ -41,6 +41,7 @@ Paper entries are maintained in category files. Each category file is split into
 | IEEE S&P 2026 | <https://sp2026.ieee-security.org/accepted-papers.html> |
 | USENIX Security 2025 | <https://www.usenix.org/conference/usenixsecurity25/technical-sessions> |
 | USENIX Security 2026 Cycle 1 | <https://www.usenix.org/conference/usenixsecurity26/cycle1-accepted-papers> |
+| USENIX Security 2026 Technical Sessions | <https://www.usenix.org/conference/usenixsecurity26/technical-sessions> |
 | ACM CCS 2025 | <https://www.sigsac.org/ccs/CCS2025/program/accepted-papers.html> |
 | ACM CCS 2026 | <https://www.sigsac.org/ccs/CCS2026/> |
 | NDSS 2025 | <https://www.ndss-symposium.org/ndss2025/accepted-papers/> |
@@ -57,6 +58,7 @@ Paper entries are maintained in category files. Each category file is split into
 | ICASSP 2025 | <https://2025.ieeeicassp.org/program-schedule/> and <https://icassp25.conflux.events/program> |
 | ICASSP 2026 | <https://cmsworkshops.com/ICASSP2026/papers/accepted_papers.php> |
 | Interspeech 2025 | <https://www.isca-archive.org/interspeech_2025/index.html> |
+| Interspeech 2026 Preliminary Programme | <https://interspeech2026.org/pages/programme/program> |
 | Interspeech 2026 | <https://www.isca-archive.org/interspeech_2026/index.html> |
 
 ## Inclusion Rule

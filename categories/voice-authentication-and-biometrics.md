@@ -26,4 +26,5 @@
 
 | Year | Venue | Paper | Tags |
 | --- | --- | --- | --- |
+| 2026 | arXiv | [Can Large Audio-Language Models Help Anti-Spoofing? A Preliminary Study on LALMs for Spoofing-Aware Speaker Verification](https://arxiv.org/abs/2607.14753) | measurement, anti-spoofing, speaker-verification, alm |
 | 2025 | Interspeech | [J-SPAW: Japanese speaker verification and spoofing attacks recorded in-the-wild dataset](https://www.isca-archive.org/interspeech_2025/shiota25_interspeech.html) | dataset, anti-spoofing |

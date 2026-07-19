@@ -4,6 +4,8 @@
 
 | Year | Venue | Paper | Tags |
 | --- | --- | --- | --- |
+| 2026 | IEEE S&P | [MusicShield: Protection for Musicians in the Era of Generative AI](https://sp2026.ieee-security.org/accepted-papers.html) | defense, music, generative-ai |
+| 2026 | USENIX Security | [ORPHEUS: A Separation-Robust Proactive Defense for Singing Voice Conversion](https://www.usenix.org/conference/usenixsecurity26/technical-sessions) | defense, singing-voice-conversion, proactive |
 | 2026 | ICLR | [Generative Adversarial Post-Training Mitigates Reward Hacking in Live Human-AI Music Interaction](https://openreview.net/forum?id=FXm5U16vxD) | safety, music |
 | 2026 | ICML | [MusicDET: Zero-Shot AI-Generated Music Detection](https://icml.cc/virtual/2026/poster/65106) | detection, music |
 | 2026 | ICASSP | Hanui: Harnessing Distributional Discrepancies for Singing Voice Deepfake Detection | detection, singing-voice, paper-15400 |

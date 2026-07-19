@@ -20,6 +20,9 @@
 | Year | Venue | Paper | Tags |
 | --- | --- | --- | --- |
 | 2026 | ICML | [SARSteer: Safeguarding Large Audio Language Models via Safe-Ablated Refusal Steering](https://icml.cc/virtual/2026/poster/66551) | defense, guardrail |
+| 2026 | Interspeech | [Noise-Aware In-Context Learning for Hallucination Mitigation in Large Audio-Language Models](https://interspeech2026.org/pages/programme/program) | defense, hallucination, alm |
+| 2026 | Interspeech | [Silence is Golden: Mitigating Hallucinations in Large Audio-Language Models via Layer-Weighted Vector Steering](https://interspeech2026.org/pages/programme/program) | defense, hallucination, steering |
+| 2026 | Interspeech | [VINAYAKA: Multilingual Audio-Visual Hate Speech Detection by Optimized Vision-Language Model](https://interspeech2026.org/pages/programme/program) | defense, hate-speech, multilingual |
 | 2025 | NeurIPS | [ALMGuard: Safety Shortcuts and Where to Find Them as Guardrails for Audio-Language Models](https://neurips.cc/virtual/2025/poster/115978) | defense, guardrail |
 | 2025 | NeurIPS | [AVCD: Mitigating Hallucinations in Audio-Visual Large Language Models through Contrastive Decoding](https://neurips.cc/virtual/2025/poster/119986) | defense, hallucination |
 | 2025 | EMNLP | [SPIRIT: Patching Speech Language Models against Jailbreak Attacks](https://aclanthology.org/2025.emnlp-main.734/) | defense, jailbreak |
@@ -36,6 +39,11 @@
 | 2026 | ICML | [Do Audio LLMs Listen or Read? Analyzing and Mitigating Paralinguistic Failures with VoxParadox](https://icml.cc/virtual/2026/poster/60946) | benchmark, trustworthiness |
 | 2026 | ACL | [Audio Jailbreak: An Open Comprehensive Benchmark for Jailbreaking Large Audio-Language Models](https://2026.aclweb.org/program/accepted_papers/) | benchmark, jailbreak, alm |
 | 2026 | ACL | [HalluAudio: A Comprehensive Benchmark for Hallucination Detection in Large Audio-Language Models](https://2026.aclweb.org/program/accepted_papers/) | benchmark, hallucination, alm |
+| 2026 | Interspeech | [Do Modern Video-LLMs Need to Listen? A Benchmark Audit and Scalable Remedy to Audio Neglect](https://interspeech2026.org/pages/programme/program) | benchmark, audio-neglect, multimodal |
+| 2026 | Interspeech | [The Voice Behind the Words: Quantifying Intersectional Bias in SpeechLLMs](https://interspeech2026.org/pages/programme/program) | measurement, bias, intersectional, speechllm |
+| 2026 | Interspeech | [A Closer Look at Failure Modes in Temporal Understanding of Large Audio-Language Models](https://interspeech2026.org/pages/programme/program) | measurement, temporal-understanding, alm |
+| 2026 | Interspeech | [Entity Binding Failures in Speech LLM Reasoning: Diagnosis and Chain-of-Thought Intervention](https://interspeech2026.org/pages/programme/program) | measurement, reasoning, speechllm |
+| 2026 | arXiv | [Auditing Protocol-Level Shortcuts in Large Audio-Language Model Judges](https://arxiv.org/abs/2607.13477) | measurement, shortcut, judge, alm |
 | 2026 | arXiv | [RedVox: Safety and Fairness Gaps in Speech Models Across Languages](https://arxiv.org/abs/2606.26968) | benchmark, fairness, multilingual, speech-model |
 | 2026 | arXiv | [Who Wins the Conflict? Mechanistic Interpretability of Text Bias in Audio LLMs](https://arxiv.org/abs/2606.18924) | measurement, bias, alm |
 | 2026 | arXiv | [SpeechJBB: Probing Safety Alignment and Comprehension in Large Audio Language Models under Code-Switched Speech](https://arxiv.org/abs/2606.06037) | benchmark, jailbreak, multilingual |

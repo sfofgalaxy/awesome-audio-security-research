@@ -48,6 +48,11 @@
 | 2026 | ICASSP | TRI-ATTENTION FUSION: JOINT TEMPORAL-SPECTRAL AND BIDIRECTIONAL MODELING FOR SPEECH SPOOFING DETECTION | spoofing, detection, paper-14667 |
 | 2026 | ICASSP | UNDERSTANDING THE STRENGTHS AND WEAKNESSES OF SSL MODELS FOR AUDIO DEEPFAKE MODEL ATTRIBUTION | attribution, ssl, paper-2830 |
 | 2026 | ICASSP | WaveSP-Net: Learnable Wavelet-Domain Sparse Prompt Tuning for Speech Deepfake Detection | detection, paper-1714 |
+| 2026 | Interspeech | [Comparing Self-Supervised and Domain-Invariant Features for Cross-Domain Voice Phishing Detection](https://interspeech2026.org/pages/programme/program) | detection, voice-phishing, cross-domain |
+| 2026 | Interspeech | [ProSDD: Learning Prosodic Representations for Speech Deepfake Detection against Expressive and Emotional Attacks](https://interspeech2026.org/pages/programme/program) | detection, expressive-speech, deepfake |
+| 2026 | Interspeech | [FreqGuard: Leveraging Frequency-Domain Feature Priors for Universal Proactive Voice Defense](https://interspeech2026.org/pages/programme/program) | defense, proactive, voice-cloning |
+| 2026 | Interspeech | [Deepfake Word Detection by Next-token Prediction using Fine-tuned Whisper](https://interspeech2026.org/pages/programme/program) | localization, whisper, deepfake |
+| 2026 | Interspeech | [Dual-Branch Gated Fusion for Open-Set Audio Deepfake Source Tracing](https://interspeech2026.org/pages/programme/program) | source-tracing, open-set |
 | 2025 | USENIX Security | [SafeSpeech: Robust and Universal Voice Protection Against Malicious Speech Synthesis](https://www.usenix.org/conference/usenixsecurity25/presentation/zhang-zhisheng) | defense, voice-cloning |
 | 2025 | ACM CCS | [Combating Falsification of Speech Videos with Live Optical Signatures](https://dl.acm.org/doi/10.1145/3719027.3765112) | detection, audio-visual |
 | 2025 | NDSS | [VoiceRadar: Voice Deepfake Detection using Micro-Frequency and Compositional Analysis](https://www.ndss-symposium.org/ndss-paper/voiceradar-voice-deepfake-detection-using-micro-frequency-and-compositional-analysis/) | detection, deepfake |
@@ -102,6 +107,10 @@
 | 2026 | ICASSP | WildSpoof: Advancing In-the-wild Data in Text-to-speech Generation and Spoofing-aware Automatic Speaker Verification | dataset, sasv, paper-19130 |
 | 2026 | ICASSP | A SUPERB-Style Benchmark of Self-Supervised Speech Models for Audio Deepfake Detection | benchmark, detection, paper-15434 |
 | 2026 | ICASSP | Environmental Sound Deepfake Detection Challenge: An Overview | challenge, environmental-sound, paper-19019 |
+| 2026 | Interspeech | [Exploring the Scale and Diversity of Speech Anti-spoofing Datasets: Experiments and Analysis](https://interspeech2026.org/pages/programme/program) | measurement, anti-spoofing, dataset |
+| 2026 | Interspeech | [SEA-Spoof: Bridging the Gap in Multilingual Audio Deepfake Detection for South-East Asia](https://interspeech2026.org/pages/programme/program) | benchmark, multilingual, deepfake |
+| 2026 | Interspeech | [When Spoof Detectors Travel: Evaluation Across 66 Languages in the Low-Resource Language Spoofing Corpus](https://interspeech2026.org/pages/programme/program) | measurement, multilingual, low-resource |
+| 2026 | Interspeech | [MultiAPI Spoof: A Multi-API Dataset and Local-Attention Network for Speech Anti-spoofing Detection](https://interspeech2026.org/pages/programme/program) | dataset, anti-spoofing, multi-api |
 | 2026 | arXiv | [VoxENES 2026: Benchmarking Generalization of Speech Spoofing Detectors Against LLM-Era TTS and Voice Conversion](https://arxiv.org/abs/2607.11706) | benchmark, spoofing, tts, voice-conversion |
 | 2026 | arXiv | [PC-Mix: Partial-Component Audio Spoofing Detection under Mixed Speech and Environmental Sound Conditions](https://arxiv.org/abs/2607.10345) | dataset, partial-spoofing, environmental-sound |
 | 2026 | arXiv | [Evidence Subspace Projection: Measuring How Much Evidence Explains Deepfake Detection in Self-Supervised Speech Models](https://arxiv.org/abs/2607.11538) | measurement, explainability, deepfake-detection |
