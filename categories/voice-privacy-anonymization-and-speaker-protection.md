@@ -17,6 +17,7 @@
 | 2026 | ICLR | [TVTSyn: Content-Synchronous Time-Varying Timbre for Streaming Voice Conversion and Anonymization](https://openreview.net/forum?id=Tf4Lfw85lS) | anonymization, voice-conversion |
 | 2026 | ACL | [Protecting Bystander Privacy via Selective Hearing in Audio LLMs](https://2026.aclweb.org/program/accepted_papers/) | defense, privacy, audio-llm |
 | 2026 | arXiv | [DDPO-VC: Speaker De-Identification via Diffusion Denoising Policy Optimization](https://arxiv.org/abs/2606.15313) | anonymization, privacy, de-identification |
+| 2026 | arXiv | [Content is What Remains: Invariant Speech Tokenization from Parallel Utterances](https://arxiv.org/abs/2607.19033) | defense, speech-token, privacy, speaker-leakage |
 | 2026 | ICASSP | CONTENT ANONYMIZATION FOR PRIVACY IN LONG-FORM AUDIO | anonymization, privacy, paper-16132 |
 | 2026 | ICASSP | IMPROVING THE SPEAKER ANONYMIZATION EVALUATION'S ROBUSTNESS TO TARGET SPEAKERS WITH ADVERSARIAL LEARNING | anonymization, robustness, paper-1281 |
 | 2026 | ICASSP | LISTEN, BUT DON'T LEAK: SENSITIVE DATA PROTECTION FOR PRIVACY AWARE AUTOMATIC SPEECH RECOGNITION WITH ACOUSTIC TRIGGERS | privacy, asr, paper-11912 |
@@ -53,5 +54,6 @@
 | 2026 | ICASSP | IDENTITY LEAKAGE THROUGH ACCENT CUES IN VOICE ANONYMISATION | privacy, anonymization, paper-16493 |
 | 2026 | ICASSP | Privacy Disclosure of Similarity Rank in Speech and Language Processing | privacy, paper-19051 |
 | 2026 | arXiv | [Goodbye Equal Error Rate, Hello Local Information Disclosure: Evaluating Voice Anonymisation against 1-to-N Linkage Threats](https://arxiv.org/abs/2607.06259) | measurement, anonymization, linkage |
+| 2026 | arXiv | [Multimodal Speaker Verification as a Threat to Speaker Anonymization](https://arxiv.org/abs/2607.19636) | measurement, anonymization, speaker-verification, privacy |
 | 2025 | ICASSP | The First VoicePrivacy Attacker Challenge | challenge, privacy, id-54053 |
 | 2025 | Interspeech | [Children's Voice Privacy: First Steps and Emerging Challenges](https://www.isca-archive.org/interspeech_2025/kulkarni25b_interspeech.html) | privacy, children |
