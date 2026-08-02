@@ -53,6 +53,7 @@
 | 2026 | Interspeech | [FreqGuard: Leveraging Frequency-Domain Feature Priors for Universal Proactive Voice Defense](https://interspeech2026.org/pages/programme/program) | defense, proactive, voice-cloning |
 | 2026 | Interspeech | [Deepfake Word Detection by Next-token Prediction using Fine-tuned Whisper](https://interspeech2026.org/pages/programme/program) | localization, whisper, deepfake |
 | 2026 | Interspeech | [Dual-Branch Gated Fusion for Open-Set Audio Deepfake Source Tracing](https://interspeech2026.org/pages/programme/program) | source-tracing, open-set |
+| 2026 | arXiv | [ThinkOmni: A Reasoning-Driven Omni-Modal LLM Framework for Audio Forgery Detection and Localization](https://arxiv.org/abs/2607.26553) | detection, localization, reasoning, audio-forensics |
 | 2025 | USENIX Security | [SafeSpeech: Robust and Universal Voice Protection Against Malicious Speech Synthesis](https://www.usenix.org/conference/usenixsecurity25/presentation/zhang-zhisheng) | defense, voice-cloning |
 | 2025 | ACM CCS | [Combating Falsification of Speech Videos with Live Optical Signatures](https://dl.acm.org/doi/10.1145/3719027.3765112) | detection, audio-visual |
 | 2025 | NDSS | [VoiceRadar: Voice Deepfake Detection using Micro-Frequency and Compositional Analysis](https://www.ndss-symposium.org/ndss-paper/voiceradar-voice-deepfake-detection-using-micro-frequency-and-compositional-analysis/) | detection, deepfake |

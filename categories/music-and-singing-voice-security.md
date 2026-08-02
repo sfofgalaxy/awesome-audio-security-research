@@ -9,6 +9,8 @@
 | 2026 | ICLR | [Generative Adversarial Post-Training Mitigates Reward Hacking in Live Human-AI Music Interaction](https://openreview.net/forum?id=FXm5U16vxD) | safety, music |
 | 2026 | ICML | [MusicDET: Zero-Shot AI-Generated Music Detection](https://icml.cc/virtual/2026/poster/65106) | detection, music |
 | 2026 | ICASSP | Hanui: Harnessing Distributional Discrepancies for Singing Voice Deepfake Detection | detection, singing-voice, paper-15400 |
+| 2026 | arXiv | [Improved Robustness in AI-Generated Music Detection](https://arxiv.org/abs/2607.27454) | detection, music, robustness, attack |
+| 2026 | arXiv | [Detection of AI-generated stems within hybrid human-AI music](https://arxiv.org/abs/2607.26874) | detection, music, provenance, hybrid |
 | 2025 | IEEE S&P | HARMONYCLOAK: Making Music Unlearnable for Generative AI | defense, copyright, music |
 | 2025 | NDSS | [SongBsAb: A Dual Prevention Approach against Singing Voice Conversion based Illegal Song Covers](https://www.ndss-symposium.org/ndss-paper/songbsab-a-dual-prevention-approach-against-singing-voice-conversion-based-illegal-song-covers/) | defense, singing-voice |
 | 2025 | ICASSP | Audio Features Investigation for Singing Voice Deepfake Detection | detection, singing-voice, id-51583 |

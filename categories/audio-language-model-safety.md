@@ -9,7 +9,10 @@
 | 2026 | ICML | [Acoustic Interference: A New Paradigm Weaponizing Acoustic Latent Semantic for Universal Jailbreak against Large Audio Language Models](https://icml.cc/virtual/2026/poster/65189) | attack, jailbreak |
 | 2026 | ICML | [Sparse Tokens Suffice: Jailbreaking Audio Language Models via Token-Aware Gradient Optimization](https://icml.cc/virtual/2026/poster/65673) | attack, jailbreak |
 | 2026 | ICML | [Speech-Audio Compositional Attacks on Multimodal LLMs and Their Defense with SALMONN-Guard](https://icml.cc/virtual/2026/poster/64737) | attack, defense, multimodal |
+| 2026 | ACL | [SoundBreak: A Systematic Study of Audio-Only Adversarial Attacks on Trimodal Models](https://aclanthology.org/2026.acl-long.1275/) | attack, adversarial, trimodal, alm |
 | 2026 | ICASSP | AUDIO-TEXT JAILBREAK ATTACK ON LARGE AUDIO-LANGUAGE MODELS: TOWARDS GENERALITY AND STEALTHINESS | attack, jailbreak, paper-12298 |
+| 2026 | arXiv | [Piggybacking on Perception: Stealthy Concurrent Audio Prompt Injections against Multimodal LLM Agents](https://arxiv.org/abs/2607.28165) | attack, prompt-injection, audio-agent, benchmark |
+| 2026 | arXiv | [Prosody-driven Jailbreaks in Audio LLMs: A Controlled Study and Mechanistic Analysis](https://arxiv.org/abs/2607.26541) | attack, jailbreak, prosody, alm |
 | 2025 | ICLR | [AdvWave: Stealthy Adversarial Jailbreak Attack against Large Audio-Language Models](https://openreview.net/forum?id=0BujOfTqab) | attack, jailbreak, alm |
 | 2025 | ACL | [Con Instruction: Universal Jailbreaking of Multimodal Large Language Models via Non-Textual Modalities](https://aclanthology.org/2025.acl-long.146/) | jailbreak, multimodal |
 | 2025 | EMNLP | [TrojanWave: Exploiting Prompt Learning for Stealthy Backdoor Attacks on Large Audio-Language Models](https://aclanthology.org/2025.emnlp-main.940/) | attack, backdoor |
@@ -39,6 +42,8 @@
 | 2026 | ICML | [Do Audio LLMs Listen or Read? Analyzing and Mitigating Paralinguistic Failures with VoxParadox](https://icml.cc/virtual/2026/poster/60946) | benchmark, trustworthiness |
 | 2026 | ACL | [Audio Jailbreak: An Open Comprehensive Benchmark for Jailbreaking Large Audio-Language Models](https://2026.aclweb.org/program/accepted_papers/) | benchmark, jailbreak, alm |
 | 2026 | ACL | [HalluAudio: A Comprehensive Benchmark for Hallucination Detection in Large Audio-Language Models](https://2026.aclweb.org/program/accepted_papers/) | benchmark, hallucination, alm |
+| 2026 | ACL | [SEE: Signal Embedding Energy for Quantifying Noise Interference in Large Audio Language Models](https://aclanthology.org/2026.acl-long.866/) | measurement, robustness, noise, alm |
+| 2026 | ACL | [Still Between Us? Evaluating and Improving Voice Assistant Robustness to Third-Party Interruptions](https://aclanthology.org/2026.acl-long.1902/) | benchmark, voice-assistant, robustness, interruption |
 | 2026 | Interspeech | [Do Modern Video-LLMs Need to Listen? A Benchmark Audit and Scalable Remedy to Audio Neglect](https://interspeech2026.org/pages/programme/program) | benchmark, audio-neglect, multimodal |
 | 2026 | Interspeech | [The Voice Behind the Words: Quantifying Intersectional Bias in SpeechLLMs](https://interspeech2026.org/pages/programme/program) | measurement, bias, intersectional, speechllm |
 | 2026 | Interspeech | [A Closer Look at Failure Modes in Temporal Understanding of Large Audio-Language Models](https://interspeech2026.org/pages/programme/program) | measurement, temporal-understanding, alm |
