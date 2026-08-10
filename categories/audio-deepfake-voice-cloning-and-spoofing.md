@@ -112,6 +112,7 @@
 | 2026 | Interspeech | [SEA-Spoof: Bridging the Gap in Multilingual Audio Deepfake Detection for South-East Asia](https://interspeech2026.org/pages/programme/program) | benchmark, multilingual, deepfake |
 | 2026 | Interspeech | [When Spoof Detectors Travel: Evaluation Across 66 Languages in the Low-Resource Language Spoofing Corpus](https://interspeech2026.org/pages/programme/program) | measurement, multilingual, low-resource |
 | 2026 | Interspeech | [MultiAPI Spoof: A Multi-API Dataset and Local-Attention Network for Speech Anti-spoofing Detection](https://interspeech2026.org/pages/programme/program) | dataset, anti-spoofing, multi-api |
+| 2026 | arXiv | [AffectDF: The Most Comprehensive Benchmark for Speech Deepfake Detection against Emotionally Expressive Attacks](https://arxiv.org/abs/2608.05507) | benchmark, deepfake, emotion, spoofing |
 | 2026 | arXiv | [VoxENES 2026: Benchmarking Generalization of Speech Spoofing Detectors Against LLM-Era TTS and Voice Conversion](https://arxiv.org/abs/2607.11706) | benchmark, spoofing, tts, voice-conversion |
 | 2026 | arXiv | [PC-Mix: Partial-Component Audio Spoofing Detection under Mixed Speech and Environmental Sound Conditions](https://arxiv.org/abs/2607.10345) | dataset, partial-spoofing, environmental-sound |
 | 2026 | arXiv | [Evidence Subspace Projection: Measuring How Much Evidence Explains Deepfake Detection in Self-Supervised Speech Models](https://arxiv.org/abs/2607.11538) | measurement, explainability, deepfake-detection |

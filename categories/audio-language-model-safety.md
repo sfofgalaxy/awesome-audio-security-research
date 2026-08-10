@@ -48,6 +48,7 @@
 | 2026 | Interspeech | [The Voice Behind the Words: Quantifying Intersectional Bias in SpeechLLMs](https://interspeech2026.org/pages/programme/program) | measurement, bias, intersectional, speechllm |
 | 2026 | Interspeech | [A Closer Look at Failure Modes in Temporal Understanding of Large Audio-Language Models](https://interspeech2026.org/pages/programme/program) | measurement, temporal-understanding, alm |
 | 2026 | Interspeech | [Entity Binding Failures in Speech LLM Reasoning: Diagnosis and Chain-of-Thought Intervention](https://interspeech2026.org/pages/programme/program) | measurement, reasoning, speechllm |
+| 2026 | arXiv | [Bias Analysis of L2 Speaking Assessment Systems Using Concept Activation Vectors](https://arxiv.org/abs/2608.06300) | measurement, bias, speaking-assessment, whisper |
 | 2026 | arXiv | [Auditing Protocol-Level Shortcuts in Large Audio-Language Model Judges](https://arxiv.org/abs/2607.13477) | measurement, shortcut, judge, alm |
 | 2026 | arXiv | [RedVox: Safety and Fairness Gaps in Speech Models Across Languages](https://arxiv.org/abs/2606.26968) | benchmark, fairness, multilingual, speech-model |
 | 2026 | arXiv | [Who Wins the Conflict? Mechanistic Interpretability of Text Bias in Audio LLMs](https://arxiv.org/abs/2606.18924) | measurement, bias, alm |

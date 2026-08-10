@@ -9,6 +9,7 @@
 | 2026 | ICLR | [Generative Adversarial Post-Training Mitigates Reward Hacking in Live Human-AI Music Interaction](https://openreview.net/forum?id=FXm5U16vxD) | safety, music |
 | 2026 | ICML | [MusicDET: Zero-Shot AI-Generated Music Detection](https://icml.cc/virtual/2026/poster/65106) | detection, music |
 | 2026 | ICASSP | Hanui: Harnessing Distributional Discrepancies for Singing Voice Deepfake Detection | detection, singing-voice, paper-15400 |
+| 2026 | arXiv | [How Much AI Is in This Track? Quantifying the Proportion of AI-Generated Stems in Hybrid Music Mixtures](https://arxiv.org/abs/2608.07285) | detection, music, provenance, regression |
 | 2026 | arXiv | [Improved Robustness in AI-Generated Music Detection](https://arxiv.org/abs/2607.27454) | detection, music, robustness, attack |
 | 2026 | arXiv | [Detection of AI-generated stems within hybrid human-AI music](https://arxiv.org/abs/2607.26874) | detection, music, provenance, hybrid |
 | 2025 | IEEE S&P | HARMONYCLOAK: Making Music Unlearnable for Generative AI | defense, copyright, music |
@@ -23,3 +24,4 @@
 | Year | Venue | Paper | Tags |
 | --- | --- | --- | --- |
 | 2026 | ICML | [From Talking to Singing: A New Challenge for Audio-Visual Deepfake Detection](https://icml.cc/virtual/2026/poster/62663) | detection, singing-voice |
+| 2026 | arXiv | [Assessing AI-generated music detection in real-world broadcast monitoring](https://arxiv.org/abs/2608.07359) | measurement, music, provenance, broadcast |
