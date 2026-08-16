@@ -11,6 +11,8 @@
 | 2026 | ICML | [Speech-Audio Compositional Attacks on Multimodal LLMs and Their Defense with SALMONN-Guard](https://icml.cc/virtual/2026/poster/64737) | attack, defense, multimodal |
 | 2026 | ACL | [SoundBreak: A Systematic Study of Audio-Only Adversarial Attacks on Trimodal Models](https://aclanthology.org/2026.acl-long.1275/) | attack, adversarial, trimodal, alm |
 | 2026 | ICASSP | AUDIO-TEXT JAILBREAK ATTACK ON LARGE AUDIO-LANGUAGE MODELS: TOWARDS GENERALITY AND STEALTHINESS | attack, jailbreak, paper-12298 |
+| 2026 | arXiv | [Never Stop Speaking: a Denial-of-Service Attack on End-to-End Speech Language Models](https://arxiv.org/abs/2608.10405) | attack, denial-of-service, slm |
+| 2026 | arXiv | [From Inaudible Inputs to Model Failures: Low-Frequency Safety Risks in LALMs](https://arxiv.org/abs/2608.09158) | attack, low-frequency, inaudible, alm |
 | 2026 | arXiv | [Piggybacking on Perception: Stealthy Concurrent Audio Prompt Injections against Multimodal LLM Agents](https://arxiv.org/abs/2607.28165) | attack, prompt-injection, audio-agent, benchmark |
 | 2026 | arXiv | [Prosody-driven Jailbreaks in Audio LLMs: A Controlled Study and Mechanistic Analysis](https://arxiv.org/abs/2607.26541) | attack, jailbreak, prosody, alm |
 | 2025 | ICLR | [AdvWave: Stealthy Adversarial Jailbreak Attack against Large Audio-Language Models](https://openreview.net/forum?id=0BujOfTqab) | attack, jailbreak, alm |
@@ -48,6 +50,7 @@
 | 2026 | Interspeech | [The Voice Behind the Words: Quantifying Intersectional Bias in SpeechLLMs](https://interspeech2026.org/pages/programme/program) | measurement, bias, intersectional, speechllm |
 | 2026 | Interspeech | [A Closer Look at Failure Modes in Temporal Understanding of Large Audio-Language Models](https://interspeech2026.org/pages/programme/program) | measurement, temporal-understanding, alm |
 | 2026 | Interspeech | [Entity Binding Failures in Speech LLM Reasoning: Diagnosis and Chain-of-Thought Intervention](https://interspeech2026.org/pages/programme/program) | measurement, reasoning, speechllm |
+| 2026 | arXiv | [EmoS: A Theory-Grounded Framework for Evaluating and Aligning Emotional Intelligence in Spoken Language Models](https://arxiv.org/abs/2608.09189) | benchmark, trustworthiness, emotion, slm |
 | 2026 | arXiv | [Bias Analysis of L2 Speaking Assessment Systems Using Concept Activation Vectors](https://arxiv.org/abs/2608.06300) | measurement, bias, speaking-assessment, whisper |
 | 2026 | arXiv | [Auditing Protocol-Level Shortcuts in Large Audio-Language Model Judges](https://arxiv.org/abs/2607.13477) | measurement, shortcut, judge, alm |
 | 2026 | arXiv | [RedVox: Safety and Fairness Gaps in Speech Models Across Languages](https://arxiv.org/abs/2606.26968) | benchmark, fairness, multilingual, speech-model |
