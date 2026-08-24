@@ -4,6 +4,7 @@
 
 | Year | Venue | Paper | Tags |
 | --- | --- | --- | --- |
+| 2026 | arXiv | [How Fragile Is Your Watermark? Training-Free Structural Removal of Neural Audio Watermarks](https://arxiv.org/abs/2608.16566) | attack, watermark, removal, synthetic-audio |
 | 2026 | arXiv | [Learning to Evade: Adaptive Attacks on Audio Watermarking](https://arxiv.org/abs/2606.22310) | attack, watermark, evasion |
 
 ## Defense

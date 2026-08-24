@@ -5,6 +5,7 @@
 | Year | Venue | Paper | Tags |
 | --- | --- | --- | --- |
 | 2026 | USENIX Security | [Analyzing the WebRTC Ecosystem and Breaking Authentication in DTLS-SRTP](https://www.usenix.org/conference/usenixsecurity26/presentation/bach) | communication-security, webrtc |
+| 2026 | ACM CCS | [PolyVoice: Exploiting Cluster-Level Vulnerabilities for One-to-Many Impersonation in Speaker Verification Systems](https://www.sigsac.org/ccs/CCS2026/program/accepted-papers.html) | attack, speaker-verification, impersonation |
 | 2026 | ICASSP | Impact of Phonetics on Speaker Identity in Adversarial Voice Attack | attack, speaker-identity, paper-10422 |
 | 2025 | ICASSP | DiffAttack: Diffusion-based Timbre-reserved Adversarial Attack in Speaker Identification | attack, speaker-identification, id-47238 |
 

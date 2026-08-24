@@ -6,6 +6,7 @@
 | --- | --- | --- | --- |
 | 2026 | IEEE S&P | [Banshee: Target Switch Attacks on Gimbal-Stabilized Visual Tracking Systems via Acoustic Injection](https://arxiv.org/abs/2607.09930) | attack, acoustic-injection |
 | 2026 | USENIX Security | [Injected and Leaked: Actively Inducing Side-Channel Leakage Using Electromagnetic Injection and Hardware Nonlinearity](https://www.usenix.org/conference/usenixsecurity26/presentation/yan-haoran) | attack, eavesdropping, headphones, em-injection |
+| 2026 | ACM CCS | [Turning Everyday Earphones into a Full-Duplex Speech Eavesdropping Platform via Zero-permission IMU](https://www.sigsac.org/ccs/CCS2026/program/accepted-papers.html) | attack, speech-eavesdropping, imu, earphones |
 | 2026 | NDSS | [Hiding an Ear in Plain Sight: On the Practicality and Implications of Acoustic Eavesdropping with Telecom Fiber Optic Cables](https://www.ndss-symposium.org/ndss-paper/hiding-an-ear-in-plain-sight-on-the-practicality-and-implications-of-acoustic-eavesdropping-with-telecom-fiber-optic-cables/) | attack, eavesdropping, fiber |
 | 2026 | Interspeech | [Impact Analysis of Speech Representation Learning Models for Acoustic Side-Channel Attack](https://interspeech2026.org/pages/programme/program) | measurement, acoustic-side-channel, speech-representation |
 | 2026 | arXiv | [AirKey: Multimodal Acoustic-Assisted WiFi Sensing for Zero-Training Robust PIN Inference](https://arxiv.org/abs/2608.03151) | attack, eavesdropping, acoustic, wifi, pin-inference |

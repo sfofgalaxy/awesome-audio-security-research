@@ -13,6 +13,7 @@
 | Year | Venue | Paper | Tags |
 | --- | --- | --- | --- |
 | 2026 | NDSS | [Rethinking Fake Speech Detection: A Generalized Framework Leveraging Spectrogram Magnitude](https://www.ndss-symposium.org/ndss-paper/rethinking-fake-speech-detection-a-generalized-framework-leveraging-spectrogram-magnitude/) | detection, fake-speech |
+| 2026 | ACM CCS | [Trident of Poseidon: A Generalized Approach for Detecting Deepfake Voices](https://www.sigsac.org/ccs/CCS2026/program/accepted-papers.html) | detection, deepfake-voice, generalization |
 | 2026 | ICML | [Alethia: a Foundational Encoder for Voice Deepfakes](https://icml.cc/virtual/2026/poster/61173) | detection, encoder |
 | 2026 | ICML | [HyperPotter: Spell the Charm of High-Order Interactions in Audio Deepfake Detection](https://icml.cc/virtual/2026/poster/60926) | detection |
 | 2026 | ICML | [Learning Tight Rejection Boundaries without Negatives for Strict One-Class Audio Deepfake Detection](https://icml.cc/virtual/2026/poster/63118) | detection, one-class |
@@ -102,6 +103,7 @@
 
 | Year | Venue | Paper | Tags |
 | --- | --- | --- | --- |
+| 2026 | ACM CCS | [Blind and Low-Vision Individuals' Detection of Audio Deepfakes](https://www.sigsac.org/ccs/CCS2026/program/accepted-papers.html) | measurement, audio-deepfake, accessibility, human-study |
 | 2026 | ICASSP | CompSpoof: A Dataset and Joint Learning Framework for Component-Level Audio Anti-spoofing Countermeasures | dataset, anti-spoofing, paper-13956 |
 | 2026 | ICASSP | DETECTING AND ATTRIBUTING SYNTHETIC SPANISH SPEECH: THE HISPASPOOF DATASET | dataset, attribution, paper-6231 |
 | 2026 | ICASSP | ECHOFAKE: A REPLAY-AWARE DATASET FOR PRACTICAL SPEECH DEEPFAKE DETECTION | dataset, replay, paper-8921 |
@@ -112,6 +114,8 @@
 | 2026 | Interspeech | [SEA-Spoof: Bridging the Gap in Multilingual Audio Deepfake Detection for South-East Asia](https://interspeech2026.org/pages/programme/program) | benchmark, multilingual, deepfake |
 | 2026 | Interspeech | [When Spoof Detectors Travel: Evaluation Across 66 Languages in the Low-Resource Language Spoofing Corpus](https://interspeech2026.org/pages/programme/program) | measurement, multilingual, low-resource |
 | 2026 | Interspeech | [MultiAPI Spoof: A Multi-API Dataset and Local-Attention Network for Speech Anti-spoofing Detection](https://interspeech2026.org/pages/programme/program) | dataset, anti-spoofing, multi-api |
+| 2026 | arXiv | [Tracking the Trend in How Speech Synthesizers Deceive People](https://arxiv.org/abs/2608.19959) | measurement, human-study, deepfake-speech, partial-spoofing |
+| 2026 | arXiv | [The Last Mile of Deepfake Speech Detection: An Industry-Academia Experience Report](https://arxiv.org/abs/2608.17585) | measurement, deployment, deepfake-detection, industry |
 | 2026 | arXiv | [Evaluating Pre-trained Speech Encoders for Spontaneous Speech Detection and Out of Domain Synthetic Speech Generalisation in Indic Languages](https://arxiv.org/abs/2608.12536) | measurement, deepfake, multilingual, synthetic-speech |
 | 2026 | arXiv | [MADBench: A Benchmark for Modality-Aware Audio Deepfake Detection](https://arxiv.org/abs/2608.09593) | benchmark, deepfake, environmental-sound, multimodal |
 | 2026 | arXiv | [AffectDF: The Most Comprehensive Benchmark for Speech Deepfake Detection against Emotionally Expressive Attacks](https://arxiv.org/abs/2608.05507) | benchmark, deepfake, emotion, spoofing |

@@ -11,6 +11,7 @@
 | 2026 | ICML | [Speech-Audio Compositional Attacks on Multimodal LLMs and Their Defense with SALMONN-Guard](https://icml.cc/virtual/2026/poster/64737) | attack, defense, multimodal |
 | 2026 | ACL | [SoundBreak: A Systematic Study of Audio-Only Adversarial Attacks on Trimodal Models](https://aclanthology.org/2026.acl-long.1275/) | attack, adversarial, trimodal, alm |
 | 2026 | ICASSP | AUDIO-TEXT JAILBREAK ATTACK ON LARGE AUDIO-LANGUAGE MODELS: TOWARDS GENERALITY AND STEALTHINESS | attack, jailbreak, paper-12298 |
+| 2026 | arXiv | [ARENA: Automated Red-Teaming for Large Audio Language Models](https://arxiv.org/abs/2608.15578) | attack, red-teaming, alm, audio-grounded |
 | 2026 | arXiv | [Never Stop Speaking: a Denial-of-Service Attack on End-to-End Speech Language Models](https://arxiv.org/abs/2608.10405) | attack, denial-of-service, slm |
 | 2026 | arXiv | [From Inaudible Inputs to Model Failures: Low-Frequency Safety Risks in LALMs](https://arxiv.org/abs/2608.09158) | attack, low-frequency, inaudible, alm |
 | 2026 | arXiv | [Piggybacking on Perception: Stealthy Concurrent Audio Prompt Injections against Multimodal LLM Agents](https://arxiv.org/abs/2607.28165) | attack, prompt-injection, audio-agent, benchmark |

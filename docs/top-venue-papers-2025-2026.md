@@ -1,6 +1,6 @@
 # Top-Venue Coverage 2025-2026
 
-Collection date: 2026-08-17.
+Collection date: 2026-08-24.
 
 Paper entries are maintained in category files. Each category file is split into `Attack`, `Defense`, `Benchmark & Measurement`, and `Other` sections, and each table is sorted newest first.
 
@@ -23,15 +23,15 @@ Paper entries are maintained in category files. Each category file is split into
 | --- | --- | --- | --- |
 | Security | IEEE S&P | Collected | Collected |
 | Security | USENIX Security | Collected | Collected from official technical sessions |
-| Security | ACM CCS | Collected | Pending: accepted list not public as of 2026-08-17 |
+| Security | ACM CCS | Collected | Collected from official accepted papers |
 | Security | NDSS | Collected | Collected |
 | AI | ICLR | Collected | Collected |
 | AI | ICML | Collected | Collected |
-| AI | NeurIPS | Collected | Pending: accepted list not public as of 2026-08-17; author notification is 2026-09-24 |
+| AI | NeurIPS | Collected | Pending: accepted list not public as of 2026-08-24; author notification is 2026-09-24 |
 | NLP | ACL | Collected | Collected |
-| NLP | EMNLP | Collected | Pending: accepted-page content not reliable as of 2026-08-17; author notification is 2026-08-20 |
+| NLP | EMNLP | Collected | Pending: accepted-page content not reliable as of 2026-08-24 |
 | Speech | ICASSP | Collected from official program API | Collected |
-| Speech | Interspeech | Collected | Preliminary programme collected; ISCA archive not public as of 2026-08-17 |
+| Speech | Interspeech | Collected | Preliminary programme collected; ISCA archive not public as of 2026-08-24 |
 
 ## Official Sources
 
@@ -43,7 +43,7 @@ Paper entries are maintained in category files. Each category file is split into
 | USENIX Security 2026 Cycle 1 | <https://www.usenix.org/conference/usenixsecurity26/cycle1-accepted-papers> |
 | USENIX Security 2026 Technical Sessions | <https://www.usenix.org/conference/usenixsecurity26/technical-sessions> |
 | ACM CCS 2025 | <https://www.sigsac.org/ccs/CCS2025/program/accepted-papers.html> |
-| ACM CCS 2026 | <https://www.sigsac.org/ccs/CCS2026/> |
+| ACM CCS 2026 | <https://www.sigsac.org/ccs/CCS2026/program/accepted-papers.html> |
 | NDSS 2025 | <https://www.ndss-symposium.org/ndss2025/accepted-papers/> |
 | NDSS 2026 | <https://www.ndss-symposium.org/ndss2026/accepted-papers/> |
 | ICLR 2025 | <https://openreview.net/group?id=ICLR.cc/2025/Conference> |

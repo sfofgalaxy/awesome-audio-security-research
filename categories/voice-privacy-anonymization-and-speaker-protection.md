@@ -5,6 +5,7 @@
 | Year | Venue | Paper | Tags |
 | --- | --- | --- | --- |
 | 2026 | IEEE S&P | The Person Behind the Sound: Demystifying Audio Private Attribute Profiling via Multimodal Large Language Models | privacy, multimodal |
+| 2026 | ACM CCS | [Expose Your Disguise: Recovering Source Speaker Identity From Voice Conversion](https://www.sigsac.org/ccs/CCS2026/program/accepted-papers.html) | attack, voice-conversion, speaker-privacy, identity-recovery |
 | 2026 | ICASSP | VoxGuard: Evaluating user and attribute privacy in speech via Membership Inference Attacks | privacy, membership-inference, paper-15507 |
 | 2026 | Interspeech | [Membership Inference Attacks against Large Audio Language Models](https://interspeech2026.org/pages/programme/program) | attack, membership-inference, alm |
 | 2025 | ICASSP | SpecWav-Attack: Leveraging Spectrogram Resizing and Wav2Vec 2.0 for Attacking Anonymized Speech | attack, anonymization, id-54049 |
