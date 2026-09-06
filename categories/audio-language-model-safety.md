@@ -51,6 +51,19 @@
 | 2026 | Interspeech | [The Voice Behind the Words: Quantifying Intersectional Bias in SpeechLLMs](https://interspeech2026.org/pages/programme/program) | measurement, bias, intersectional, speechllm |
 | 2026 | Interspeech | [A Closer Look at Failure Modes in Temporal Understanding of Large Audio-Language Models](https://interspeech2026.org/pages/programme/program) | measurement, temporal-understanding, alm |
 | 2026 | Interspeech | [Entity Binding Failures in Speech LLM Reasoning: Diagnosis and Chain-of-Thought Intervention](https://interspeech2026.org/pages/programme/program) | measurement, reasoning, speechllm |
+| 2026 | arXiv | [The Attention Triangle in Audio-Video Models](https://arxiv.org/abs/2609.03586) | measurement, semantic-leakage, audio-video, bias |
+| 2026 | arXiv | [DuplexSpeechBench-IFEval: Evaluating Implicit Instruction Following in Full-Duplex Voice Agents](https://arxiv.org/abs/2609.03423) | benchmark, voice-agent, instruction-following, safety |
+| 2026 | arXiv | [Auditory Illusion Benchmark for Large Audio Language Models](https://arxiv.org/abs/2609.02277) | benchmark, auditory-illusion, alm, trustworthiness |
+| 2026 | arXiv | [Heard but Not Heeded: Paralinguistic Information Encoding and Loss in Audio-Language Models](https://arxiv.org/abs/2609.00727) | measurement, paralinguistic, alm, trustworthiness |
+| 2026 | arXiv | [Perceptually Better, Semantically Worse: Measuring Speech Enhancement Impact on LLM-Based Voice Systems](https://arxiv.org/abs/2608.30348) | measurement, speech-enhancement, voice-system, robustness |
+| 2026 | arXiv | [When Models Hear What They Expect: Diagnosing Prosodic Heuristics in Multimodal Sarcasm Detection](https://arxiv.org/abs/2608.30204) | measurement, prosody, bias, alm |
+| 2026 | arXiv | [When Robots Mishear Us: Mapping the Safety Risks of Voice-Controlled Embodied AI](https://arxiv.org/abs/2608.28518) | measurement, asr, embodied-ai, safety |
+| 2026 | arXiv | [SURE-Challenge: Evaluating Speech Evidence Before Speech-LLM Generation](https://arxiv.org/abs/2608.27783) | benchmark, unsupported-speech, slm, safety |
+| 2026 | arXiv | [When Text Misleads: Inconsistent-Aware Reasoning for Audio-Grounded Dialogue](https://arxiv.org/abs/2608.27176) | benchmark, text-bias, speech-grounding, alm |
+| 2026 | arXiv | [Said Aloud, Read Different: Cross-Modal Instability in Multimodal Models](https://arxiv.org/abs/2608.27135) | measurement, speech, multilingual, instability |
+| 2026 | arXiv | [Multi2AV-Safety: Benchmarking Safety in Multimodal-to-Audio-Video Generation](https://arxiv.org/abs/2608.26535) | benchmark, safety, audio-video, multimodal |
+| 2026 | arXiv | [Lost in Speech: Trilingual Spoken Hallucination Detection Across Audio and Transcripts](https://arxiv.org/abs/2608.24707) | benchmark, hallucination, multilingual, spoken |
+| 2026 | arXiv | [Anatomy of a Scam Call: What 10,000 real scam and spam calls reveal about how phone scammers operate](https://arxiv.org/abs/2608.24127) | measurement, scam-call, voice-phishing, misuse |
 | 2026 | arXiv | [EmoS: A Theory-Grounded Framework for Evaluating and Aligning Emotional Intelligence in Spoken Language Models](https://arxiv.org/abs/2608.09189) | benchmark, trustworthiness, emotion, slm |
 | 2026 | arXiv | [Bias Analysis of L2 Speaking Assessment Systems Using Concept Activation Vectors](https://arxiv.org/abs/2608.06300) | measurement, bias, speaking-assessment, whisper |
 | 2026 | arXiv | [Auditing Protocol-Level Shortcuts in Large Audio-Language Model Judges](https://arxiv.org/abs/2607.13477) | measurement, shortcut, judge, alm |

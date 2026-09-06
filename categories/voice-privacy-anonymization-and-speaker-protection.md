@@ -8,6 +8,7 @@
 | 2026 | ACM CCS | [Expose Your Disguise: Recovering Source Speaker Identity From Voice Conversion](https://www.sigsac.org/ccs/CCS2026/program/accepted-papers.html) | attack, voice-conversion, speaker-privacy, identity-recovery |
 | 2026 | ICASSP | VoxGuard: Evaluating user and attribute privacy in speech via Membership Inference Attacks | privacy, membership-inference, paper-15507 |
 | 2026 | Interspeech | [Membership Inference Attacks against Large Audio Language Models](https://interspeech2026.org/pages/programme/program) | attack, membership-inference, alm |
+| 2026 | arXiv | [Hearing the Whispers: Black-Box Membership Inference Attacks on Finetuned TTS Models](https://arxiv.org/abs/2609.01723) | attack, membership-inference, tts, privacy |
 | 2025 | ICASSP | SpecWav-Attack: Leveraging Spectrogram Resizing and Wav2Vec 2.0 for Attacking Anonymized Speech | attack, anonymization, id-54049 |
 | 2025 | ICASSP | Attacking Voice Anonymization Systems with Augmented Feature and Speaker Identity Difference | attack, anonymization, id-54052 |
 
@@ -17,6 +18,9 @@
 | --- | --- | --- | --- |
 | 2026 | ICLR | [TVTSyn: Content-Synchronous Time-Varying Timbre for Streaming Voice Conversion and Anonymization](https://openreview.net/forum?id=Tf4Lfw85lS) | anonymization, voice-conversion |
 | 2026 | ACL | [Protecting Bystander Privacy via Selective Hearing in Audio LLMs](https://2026.aclweb.org/program/accepted_papers/) | defense, privacy, audio-llm |
+| 2026 | arXiv | [Removing Speech, Keeping Activities: A Privacy Firewall for Acoustic Sensing in Assisted Living](https://arxiv.org/abs/2609.02376) | defense, speech-privacy, acoustic-sensing, activity-recognition |
+| 2026 | arXiv | [DP-VOXLET: Provable Speaker Anonymization for Disentangled Speech Representations](https://arxiv.org/abs/2608.30969) | anonymization, differential-privacy, speaker-protection |
+| 2026 | arXiv | [Your Voice Cloning System is Secretly a Voice Anonymizer](https://arxiv.org/abs/2608.27360) | anonymization, voice-cloning, multilingual, privacy |
 | 2026 | arXiv | [DDPO-VC: Speaker De-Identification via Diffusion Denoising Policy Optimization](https://arxiv.org/abs/2606.15313) | anonymization, privacy, de-identification |
 | 2026 | arXiv | [Content is What Remains: Invariant Speech Tokenization from Parallel Utterances](https://arxiv.org/abs/2607.19033) | defense, speech-token, privacy, speaker-leakage |
 | 2026 | ICASSP | CONTENT ANONYMIZATION FOR PRIVACY IN LONG-FORM AUDIO | anonymization, privacy, paper-16132 |

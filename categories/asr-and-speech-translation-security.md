@@ -18,6 +18,8 @@
 | --- | --- | --- | --- |
 | 2026 | Interspeech | [Whisper Hallucination Detection and Mitigation via Hidden Representation Steering and Sparse AutoEncoders](https://interspeech2026.org/pages/programme/program) | defense, hallucination, whisper |
 | 2026 | Interspeech | [Improving Adversarial Robustness in Spoken Language Identification through Self-Defensive Distillation](https://interspeech2026.org/pages/programme/program) | defense, adversarial, language-identification |
+| 2026 | arXiv | [Likelihood-Constrained Acoustic Reranking for Training-Free Hallucination Mitigation in LLM-Based ASR](https://arxiv.org/abs/2608.30776) | defense, hallucination, acoustic-grounding, asr |
+| 2026 | arXiv | [Formal, Executable and Explainable Runtime Monitoring of Spoken Air Traffic Control Operational Procedures](https://arxiv.org/abs/2608.25926) | defense, runtime-monitoring, aviation, spoken-procedure |
 | 2026 | arXiv | [The Null Token Knows: Reducing Message-Free Hallucination in ASR and NMT](https://arxiv.org/abs/2608.15940) | defense, hallucination, abstention, asr |
 | 2025 | USENIX Security | [Whispering Under the Eaves: Protecting User Privacy Against Commercial and LLM-powered Automatic Speech Recognition Systems](https://www.usenix.org/conference/usenixsecurity25/presentation/jin-weifei) | defense, privacy, asr |
 | 2025 | ICASSP | Detecting and Defending Against Adversarial Attacks on Automatic Speech Recognition via Diffusion Models | defense, asr, id-46951 |
@@ -27,6 +29,7 @@
 | Year | Venue | Paper | Tags |
 | --- | --- | --- | --- |
 | 2026 | ICLR | [Are Deep Speech Denoising Models Robust to Adversarial Noise?](https://openreview.net/forum?id=WtH2JxKJKf) | robustness, adversarial |
+| 2026 | arXiv | [Better Retrieval, Worse Robustness: How Multi-hop RAG Amplifies Upstream ASR Errors](https://arxiv.org/abs/2608.22872) | measurement, asr, rag, robustness |
 | 2026 | arXiv | [Towards Quantifying Benchmark Optimization in ASR Models](https://arxiv.org/abs/2608.19936) | measurement, benchmark-optimization, asr, trustworthiness |
 | 2025 | ICLR | [Speech Robust Bench: A Robustness Benchmark For Speech Recognition](https://openreview.net/forum?id=D0LuQNZfEl) | benchmark, robustness, asr |
 | 2025 | ICLR | [Rethinking Audio-Visual Adversarial Vulnerability from Temporal and Modality Perspectives](https://openreview.net/forum?id=ePJrZLIqpV) | adversarial, audio-visual |

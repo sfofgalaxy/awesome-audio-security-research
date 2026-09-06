@@ -54,6 +54,10 @@
 | 2026 | Interspeech | [FreqGuard: Leveraging Frequency-Domain Feature Priors for Universal Proactive Voice Defense](https://interspeech2026.org/pages/programme/program) | defense, proactive, voice-cloning |
 | 2026 | Interspeech | [Deepfake Word Detection by Next-token Prediction using Fine-tuned Whisper](https://interspeech2026.org/pages/programme/program) | localization, whisper, deepfake |
 | 2026 | Interspeech | [Dual-Branch Gated Fusion for Open-Set Audio Deepfake Source Tracing](https://interspeech2026.org/pages/programme/program) | source-tracing, open-set |
+| 2026 | arXiv | [ToolDF: Tool-Integrated Reasoning for Mixed-Authenticity Audio Deepfake Detection](https://arxiv.org/abs/2609.03620) | detection, mixed-authenticity, localization, alm |
+| 2026 | arXiv | [Audio-Driven Adversarial Defense for 3D Talking Face Generation with totally Visual Fidelity Preservation](https://arxiv.org/abs/2608.30951) | defense, talking-face, privacy, audio-perturbation |
+| 2026 | arXiv | [Textual Acoustic Grounding for Generalizable LLM-Based Deepfake Voice Detection](https://arxiv.org/abs/2608.30622) | detection, acoustic-grounding, generalization, alm |
+| 2026 | arXiv | [Decay-Region Group Delay as a Forensic Cue for AI-Generated Impulsive Sounds](https://arxiv.org/abs/2608.26346) | detection, forensics, synthetic-audio |
 | 2026 | arXiv | [ThinkOmni: A Reasoning-Driven Omni-Modal LLM Framework for Audio Forgery Detection and Localization](https://arxiv.org/abs/2607.26553) | detection, localization, reasoning, audio-forensics |
 | 2025 | USENIX Security | [SafeSpeech: Robust and Universal Voice Protection Against Malicious Speech Synthesis](https://www.usenix.org/conference/usenixsecurity25/presentation/zhang-zhisheng) | defense, voice-cloning |
 | 2025 | ACM CCS | [Combating Falsification of Speech Videos with Live Optical Signatures](https://dl.acm.org/doi/10.1145/3719027.3765112) | detection, audio-visual |
@@ -114,6 +118,8 @@
 | 2026 | Interspeech | [SEA-Spoof: Bridging the Gap in Multilingual Audio Deepfake Detection for South-East Asia](https://interspeech2026.org/pages/programme/program) | benchmark, multilingual, deepfake |
 | 2026 | Interspeech | [When Spoof Detectors Travel: Evaluation Across 66 Languages in the Low-Resource Language Spoofing Corpus](https://interspeech2026.org/pages/programme/program) | measurement, multilingual, low-resource |
 | 2026 | Interspeech | [MultiAPI Spoof: A Multi-API Dataset and Local-Attention Network for Speech Anti-spoofing Detection](https://interspeech2026.org/pages/programme/program) | dataset, anti-spoofing, multi-api |
+| 2026 | arXiv | [Perceptible or Not? Diagnosing Passive Fingerprints for Speech Deepfake Attribution](https://arxiv.org/abs/2609.00765) | measurement, attribution, passive-fingerprint, speech-deepfake |
+| 2026 | arXiv | [AT-ADD: A Benchmark and Challenge for Robust and All-Type Audio Deepfake Detection](https://arxiv.org/abs/2608.23437) | benchmark, challenge, deepfake, all-type-audio |
 | 2026 | arXiv | [Tracking the Trend in How Speech Synthesizers Deceive People](https://arxiv.org/abs/2608.19959) | measurement, human-study, deepfake-speech, partial-spoofing |
 | 2026 | arXiv | [The Last Mile of Deepfake Speech Detection: An Industry-Academia Experience Report](https://arxiv.org/abs/2608.17585) | measurement, deployment, deepfake-detection, industry |
 | 2026 | arXiv | [Evaluating Pre-trained Speech Encoders for Spontaneous Speech Detection and Out of Domain Synthetic Speech Generalisation in Indic Languages](https://arxiv.org/abs/2608.12536) | measurement, deepfake, multilingual, synthetic-speech |

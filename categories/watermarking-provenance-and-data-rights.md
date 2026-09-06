@@ -12,6 +12,8 @@
 | Year | Venue | Paper | Tags |
 | --- | --- | --- | --- |
 | 2026 | ICML | [Hidden in Plain Tokens: Simply Robust, Gradient-Free Watermark for Synthetic Audio](https://icml.cc/virtual/2026/poster/62388) | watermark, synthetic-audio |
+| 2026 | arXiv | [CRAW: Codec Robust Audio Watermarking](https://arxiv.org/abs/2609.03107) | watermark, codec-robust, provenance, synthetic-audio |
+| 2026 | arXiv | [A Training-Free Proactive Defense Against Partial Speech Manipulation via Self-Embedding Steganography](https://arxiv.org/abs/2608.25285) | defense, steganography, partial-deepfake, provenance |
 | 2026 | arXiv | [DuraMark: Duration-Embedded Watermarking in LLM-based TTS](https://arxiv.org/abs/2606.15264) | watermark, tts, voice-cloning |
 | 2026 | arXiv | [MusicMark: A Robust Generative Watermarking Framework for Music Generation](https://arxiv.org/abs/2607.11117) | watermark, music, provenance |
 | 2026 | arXiv | [SSTMark: Robust Zero-Shot Speech Watermarking via Semantic-Level Tensor Calibration](https://arxiv.org/abs/2607.17592) | watermark, speech, zero-shot, provenance |
@@ -37,6 +39,7 @@
 
 | Year | Venue | Paper | Tags |
 | --- | --- | --- | --- |
+| 2026 | arXiv | [On the Robustness of Audio Deepfake Detection under Audio Watermarking](https://arxiv.org/abs/2608.24159) | measurement, watermark, deepfake-detection, robustness |
 | 2026 | arXiv | [The Watermark Shortcut: How Provenance Marking Sabotages Audio Deepfake Detection](https://arxiv.org/abs/2606.23335) | measurement, watermark, deepfake-detection |
 | 2026 | arXiv | [VoxWatermark: A Large-Scale Benchmark for Audio Watermark Detection under Perturbations](https://arxiv.org/abs/2606.15187) | benchmark, watermark, perturbation |
 | 2025 | ICLR | [Bridging the Data Provenance Gap Across Text, Speech, and Video](https://openreview.net/forum?id=G5DziesYxL) | provenance, multimodal |

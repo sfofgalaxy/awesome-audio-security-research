@@ -1,6 +1,6 @@
 # Top-Venue Coverage 2025-2026
 
-Collection date: 2026-08-24.
+Collection date: 2026-09-07.
 
 Paper entries are maintained in category files. Each category file is split into `Attack`, `Defense`, `Benchmark & Measurement`, and `Other` sections, and each table is sorted newest first.
 
@@ -27,11 +27,11 @@ Paper entries are maintained in category files. Each category file is split into
 | Security | NDSS | Collected | Collected |
 | AI | ICLR | Collected | Collected |
 | AI | ICML | Collected | Collected |
-| AI | NeurIPS | Collected | Pending: accepted list not public as of 2026-08-24; author notification is 2026-09-24 |
+| AI | NeurIPS | Collected | Pending: accepted list not public as of 2026-09-07; author notification is 2026-09-24 |
 | NLP | ACL | Collected | Collected |
-| NLP | EMNLP | Collected | Pending: accepted-page content not reliable as of 2026-08-24 |
+| NLP | EMNLP | Collected | Pending: accepted-page content still carries EMNLP 2025 metadata/content as of 2026-09-07 |
 | Speech | ICASSP | Collected from official program API | Collected |
-| Speech | Interspeech | Collected | Preliminary programme collected; ISCA archive not public as of 2026-08-24 |
+| Speech | Interspeech | Collected | Preliminary programme collected; ISCA archive not public as of 2026-09-07 |
 
 ## Official Sources
 
