@@ -4,6 +4,7 @@
 
 | Year | Venue | Paper | Tags |
 | --- | --- | --- | --- |
+| 2026 | arXiv | [DuplexJail: Safety Alignment Breaks Under Spoken Interruption in Full-Duplex Voice Agents](https://arxiv.org/abs/2609.09420) | attack, jailbreak, interruption, voice-agent |
 | 2026 | IEEE S&P | Hijacking Large Audio-Language Models via Context-Agnostic and Imperceptible Auditory Prompt Injection | attack, prompt-injection, alm |
 | 2026 | USENIX Security | [Sirens' Whisper: Inaudible Near-Ultrasonic Jailbreaks of Speech-Driven LLMs](https://www.usenix.org/conference/usenixsecurity26/presentation/ling) | attack, jailbreak, ultrasonic |
 | 2026 | ICML | [Acoustic Interference: A New Paradigm Weaponizing Acoustic Latent Semantic for Universal Jailbreak against Large Audio Language Models](https://icml.cc/virtual/2026/poster/65189) | attack, jailbreak |
@@ -25,6 +26,7 @@
 
 | Year | Venue | Paper | Tags |
 | --- | --- | --- | --- |
+| 2026 | arXiv | [TAD: Token-Adaptive Contrastive Decoding for Hallucination Mitigation in Large Audio-Language Models](https://arxiv.org/abs/2609.07286) | defense, hallucination, contrastive-decoding, alm |
 | 2026 | ICML | [SARSteer: Safeguarding Large Audio Language Models via Safe-Ablated Refusal Steering](https://icml.cc/virtual/2026/poster/66551) | defense, guardrail |
 | 2026 | Interspeech | [Noise-Aware In-Context Learning for Hallucination Mitigation in Large Audio-Language Models](https://interspeech2026.org/pages/programme/program) | defense, hallucination, alm |
 | 2026 | Interspeech | [Silence is Golden: Mitigating Hallucinations in Large Audio-Language Models via Layer-Weighted Vector Steering](https://interspeech2026.org/pages/programme/program) | defense, hallucination, steering |
@@ -39,6 +41,7 @@
 
 | Year | Venue | Paper | Tags |
 | --- | --- | --- | --- |
+| 2026 | arXiv | [Voice or Stereotype? Disentangling Acoustic and Content-Based Gender in Speech-to-Speech Models](https://arxiv.org/abs/2609.09263) | measurement, bias, gender, speech-to-speech |
 | 2026 | ICLR | [AudioTrust: Benchmarking The Multifaceted Trustworthiness of Audio Large Language Models](https://openreview.net/forum?id=E823AY0taq) | benchmark, trustworthiness |
 | 2026 | ICLR | [JALMBench: Benchmarking Jailbreak Vulnerabilities in Audio Language Models](https://openreview.net/forum?id=DJkQ236C8B) | benchmark, jailbreak |
 | 2026 | ICML | [LALM-as-a-Judge: Benchmarking Large Audio-Language Models for Safety Evaluation in Multi-Turn Spoken Dialogues](https://icml.cc/virtual/2026/poster/66557) | benchmark, safety |

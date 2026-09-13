@@ -16,6 +16,7 @@
 
 | Year | Venue | Paper | Tags |
 | --- | --- | --- | --- |
+| 2026 | arXiv | [Component-Aware Differential Privacy for Federated Multilingual Speech-LLMs](https://arxiv.org/abs/2609.11762) | defense, differential-privacy, federated-learning, speech-llm |
 | 2026 | ICLR | [TVTSyn: Content-Synchronous Time-Varying Timbre for Streaming Voice Conversion and Anonymization](https://openreview.net/forum?id=Tf4Lfw85lS) | anonymization, voice-conversion |
 | 2026 | ACL | [Protecting Bystander Privacy via Selective Hearing in Audio LLMs](https://2026.aclweb.org/program/accepted_papers/) | defense, privacy, audio-llm |
 | 2026 | arXiv | [Removing Speech, Keeping Activities: A Privacy Firewall for Acoustic Sensing in Assisted Living](https://arxiv.org/abs/2609.02376) | defense, speech-privacy, acoustic-sensing, activity-recognition |

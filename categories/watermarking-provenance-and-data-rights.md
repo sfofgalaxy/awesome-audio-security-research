@@ -39,6 +39,7 @@
 
 | Year | Venue | Paper | Tags |
 | --- | --- | --- | --- |
+| 2026 | arXiv | [Clean Accuracy Does Not Guarantee Provenance Robustness: A Prospective Codec-Stress Evaluation of Audio Attribution](https://arxiv.org/abs/2609.07981) | measurement, provenance, codec-robustness, attribution |
 | 2026 | arXiv | [On the Robustness of Audio Deepfake Detection under Audio Watermarking](https://arxiv.org/abs/2608.24159) | measurement, watermark, deepfake-detection, robustness |
 | 2026 | arXiv | [The Watermark Shortcut: How Provenance Marking Sabotages Audio Deepfake Detection](https://arxiv.org/abs/2606.23335) | measurement, watermark, deepfake-detection |
 | 2026 | arXiv | [VoxWatermark: A Large-Scale Benchmark for Audio Watermark Detection under Perturbations](https://arxiv.org/abs/2606.15187) | benchmark, watermark, perturbation |

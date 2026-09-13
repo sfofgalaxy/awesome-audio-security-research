@@ -12,6 +12,9 @@
 
 | Year | Venue | Paper | Tags |
 | --- | --- | --- | --- |
+| 2026 | arXiv | [Not All Attacks Are Learned Equally in Speech Deepfake Detection](https://arxiv.org/abs/2609.11763) | defense, robustness, attack-aware, deepfake-detection |
+| 2026 | arXiv | [From Scores to Evidence: Auditable Decisions Can Improve Speech Deepfake Detection](https://arxiv.org/abs/2609.08899) | defense, auditability, deepfake-detection, provenance |
+| 2026 | arXiv | [Audio Deepfake Detection Using Temporal Coherence Analysis](https://arxiv.org/abs/2609.09489) | defense, temporal-coherence, cross-domain, deepfake-detection |
 | 2026 | NDSS | [Rethinking Fake Speech Detection: A Generalized Framework Leveraging Spectrogram Magnitude](https://www.ndss-symposium.org/ndss-paper/rethinking-fake-speech-detection-a-generalized-framework-leveraging-spectrogram-magnitude/) | detection, fake-speech |
 | 2026 | ACM CCS | [Trident of Poseidon: A Generalized Approach for Detecting Deepfake Voices](https://www.sigsac.org/ccs/CCS2026/program/accepted-papers.html) | detection, deepfake-voice, generalization |
 | 2026 | ICML | [Alethia: a Foundational Encoder for Voice Deepfakes](https://icml.cc/virtual/2026/poster/61173) | detection, encoder |
@@ -107,6 +110,8 @@
 
 | Year | Venue | Paper | Tags |
 | --- | --- | --- | --- |
+| 2026 | arXiv | [The Machines Are Calling: Measuring Automated and Synthetic Voices in Unwanted Inbound Calls](https://arxiv.org/abs/2609.11137) | measurement, synthetic-voice, voice-phishing, unwanted-calls |
+| 2026 | arXiv | [Zero-Shot Temporal Localisation of Audio Deepfakes in Multi-Speaker Conversations](https://arxiv.org/abs/2609.10051) | benchmark, temporal-localization, multi-speaker, deepfake |
 | 2026 | ACM CCS | [Blind and Low-Vision Individuals' Detection of Audio Deepfakes](https://www.sigsac.org/ccs/CCS2026/program/accepted-papers.html) | measurement, audio-deepfake, accessibility, human-study |
 | 2026 | ICASSP | CompSpoof: A Dataset and Joint Learning Framework for Component-Level Audio Anti-spoofing Countermeasures | dataset, anti-spoofing, paper-13956 |
 | 2026 | ICASSP | DETECTING AND ATTRIBUTING SYNTHETIC SPANISH SPEECH: THE HISPASPOOF DATASET | dataset, attribution, paper-6231 |
